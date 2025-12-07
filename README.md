@@ -20,6 +20,9 @@ Key business metrics and high-level trends:
 - **Revenue by Channel**: Pie chart breakdown (e.g., Website, Mobile App, eBay, Amazon).
 - **Revenue by Country**: Map visual showing geographic sales performance.
 
+
+![Executive Summary](Images/Exec_overview.png)
+
 ---
 
 ## 2. Product Performance
