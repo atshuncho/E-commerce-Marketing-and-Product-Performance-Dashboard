@@ -21,7 +21,7 @@ Key business metrics and high-level trends:
 - **Revenue by Country**: Map visual showing geographic sales performance.
 
 
-![Executive Summary](PowerBi/Images/Exec_overview.png)
+![Executive Summary](PowerBI/Images/Exec_overview.png)
 
 ---
 
@@ -35,6 +35,7 @@ Detailed product-level analysis:
 - **Top 5 Products by Sales**: Bar chart based on total revenue.
 - **YTD Revenue**: Year-to-date trend of total revenue.
 
+![Product Performance](PowerBI/Images/product_perf.png)
 ---
 
 ## 3. Marketing Efficiency
@@ -49,6 +50,8 @@ Focus on ad spend, profitability, and ROI by channel:
 - **Marketing Efficiency Per Channel**: Line chart trend over time.
 - **Ad Spend by Channel**: Pie chart showing distribution of marketing budget.
 - **Insight Box**: Strategic insight on marketing performance.
+
+![Marketing Efficiency](PowerBI/Images/marketing_effic.png)
 
 ---
 
