@@ -21,7 +21,7 @@ Key business metrics and high-level trends:
 - **Revenue by Country**: Map visual showing geographic sales performance.
 
 
-![Executive Summary](Images/Exec_overview.png)
+![Executive Summary](PowerBi/Images/Exec_overview.png)
 
 ---
 
