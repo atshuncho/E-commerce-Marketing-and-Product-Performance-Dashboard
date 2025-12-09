@@ -92,4 +92,4 @@ Email: *(ashrafsanni09@gmail.com)*
 - Customer Acquisition Cost and ROAS are calculated dynamically using DAX.
 - All pages are interactive and filter-aware.
 - Visual consistency and colour palette are optimised for business storytelling.
-- Dax queries can be seen here: 
+- Dax queries can be seen here: [Dax Measures](https://github.com/atshuncho/E-commerce-Marketing-and-Product-Performance-Dashboard/blob/main/PowerBI/README.md)
