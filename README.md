@@ -75,7 +75,23 @@ These filters apply across pages for seamless slicing and user exploration.
 - **Data Modelling with Relationships**
 
 ---
+SQL Analysis
 
+As part of the project, raw datasets were explored and cleaned using SQL. Key business questions were answered through custom-written SQL scripts before visualization in Power BI. Highlights include:
+
+Top Products by Revenue and Orders
+
+Revenue Trends (Monthly, MoM %, YTD)
+
+Marketing Spend vs Revenue by Channel
+
+Customer Acquisition Cost by Channel
+
+Profit Margins by Product
+
+Geographic Distribution of Orders
+
+---
 ## Author
 
 **Ashraf Sanni**  
