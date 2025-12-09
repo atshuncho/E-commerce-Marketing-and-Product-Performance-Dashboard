@@ -1,0 +1,2189 @@
+Date,Channel,Spend,Campaign
+2024-01-01,Website,386.71,Website - Performance
+2024-01-01,Mobile app,385.55,Mobile app - Performance
+2024-01-01,Amazon,656.84,Amazon - Performance
+2024-01-01,eBay,151.46,eBay - Performance
+2024-01-02,Website,350.93,Website - Brand
+2024-01-02,Mobile app,296.08,Mobile app - Brand
+2024-01-02,Amazon,586.39,Amazon - Performance
+2024-01-02,eBay,210.49,eBay - Performance
+2024-01-03,Website,723.21,Website - Brand
+2024-01-03,Mobile app,209.92,Mobile app - Brand
+2024-01-03,Amazon,547.42,Amazon - Performance
+2024-01-03,eBay,185.37,eBay - Brand
+2024-01-04,Website,137.58,Website - Brand
+2024-01-04,Mobile app,300.68,Mobile app - Performance
+2024-01-04,Amazon,284.17,Amazon - Performance
+2024-01-04,eBay,176.94,eBay - Brand
+2024-01-05,Website,386.26,Website - Performance
+2024-01-05,Mobile app,438.42,Mobile app - Performance
+2024-01-05,Amazon,392.98,Amazon - Performance
+2024-01-05,eBay,309.62,eBay - Performance
+2024-01-06,Website,781.32,Website - Brand
+2024-01-06,Mobile app,298.19,Mobile app - Performance
+2024-01-06,Amazon,639.3,Amazon - Brand
+2024-01-06,eBay,180.18,eBay - Performance
+2024-01-07,Website,322.13,Website - Performance
+2024-01-07,Mobile app,369.06,Mobile app - Performance
+2024-01-07,Amazon,98.95,Amazon - Brand
+2024-01-07,eBay,107.57,eBay - Performance
+2024-01-08,Website,304.22,Website - Brand
+2024-01-08,Mobile app,453.29,Mobile app - Brand
+2024-01-08,Amazon,32.9,Amazon - Performance
+2024-01-08,eBay,379.93,eBay - Brand
+2024-01-09,Website,674.31,Website - Brand
+2024-01-09,Mobile app,526.76,Mobile app - Performance
+2024-01-09,Amazon,489.76,Amazon - Performance
+2024-01-09,eBay,183.46,eBay - Brand
+2024-01-10,Website,690.85,Website - Performance
+2024-01-10,Mobile app,245.59,Mobile app - Performance
+2024-01-10,Amazon,647.79,Amazon - Brand
+2024-01-10,eBay,247.65,eBay - Brand
+2024-01-11,Website,633.37,Website - Performance
+2024-01-11,Mobile app,669.28,Mobile app - Brand
+2024-01-11,Amazon,593.7,Amazon - Brand
+2024-01-11,eBay,112.62,eBay - Performance
+2024-01-12,Website,235.24,Website - Brand
+2024-01-12,Mobile app,478.25,Mobile app - Performance
+2024-01-12,Amazon,285.98,Amazon - Brand
+2024-01-12,eBay,126.0,eBay - Brand
+2024-01-13,Website,658.28,Website - Performance
+2024-01-13,Mobile app,643.24,Mobile app - Brand
+2024-01-13,Amazon,287.6,Amazon - Performance
+2024-01-13,eBay,201.11,eBay - Brand
+2024-01-14,Website,759.37,Website - Brand
+2024-01-14,Mobile app,443.02,Mobile app - Brand
+2024-01-14,Amazon,403.7,Amazon - Performance
+2024-01-14,eBay,185.4,eBay - Performance
+2024-01-15,Website,543.08,Website - Performance
+2024-01-15,Mobile app,567.43,Mobile app - Performance
+2024-01-15,Amazon,563.58,Amazon - Brand
+2024-01-15,eBay,361.71,eBay - Brand
+2024-01-16,Website,1261.13,Website - Brand
+2024-01-16,Mobile app,410.49,Mobile app - Performance
+2024-01-16,Amazon,301.68,Amazon - Performance
+2024-01-16,eBay,139.79,eBay - Brand
+2024-01-17,Website,616.75,Website - Brand
+2024-01-17,Mobile app,430.02,Mobile app - Performance
+2024-01-17,Amazon,276.38,Amazon - Brand
+2024-01-17,eBay,329.16,eBay - Performance
+2024-01-18,Website,102.24,Website - Performance
+2024-01-18,Mobile app,240.98,Mobile app - Performance
+2024-01-18,Amazon,304.72,Amazon - Brand
+2024-01-18,eBay,268.31,eBay - Brand
+2024-01-19,Website,874.37,Website - Performance
+2024-01-19,Mobile app,67.42,Mobile app - Performance
+2024-01-19,Amazon,754.0,Amazon - Performance
+2024-01-19,eBay,96.91,eBay - Performance
+2024-01-20,Website,603.62,Website - Brand
+2024-01-20,Mobile app,415.74,Mobile app - Brand
+2024-01-20,Amazon,603.45,Amazon - Brand
+2024-01-20,eBay,163.54,eBay - Performance
+2024-01-21,Website,829.12,Website - Brand
+2024-01-21,Mobile app,381.24,Mobile app - Performance
+2024-01-21,Amazon,395.12,Amazon - Performance
+2024-01-21,eBay,360.3,eBay - Performance
+2024-01-22,Website,189.55,Website - Brand
+2024-01-22,Mobile app,370.56,Mobile app - Performance
+2024-01-22,Amazon,282.43,Amazon - Performance
+2024-01-22,eBay,185.77,eBay - Performance
+2024-01-23,Website,418.67,Website - Performance
+2024-01-23,Mobile app,473.98,Mobile app - Brand
+2024-01-23,Amazon,351.41,Amazon - Performance
+2024-01-23,eBay,199.39,eBay - Performance
+2024-01-24,Website,632.66,Website - Brand
+2024-01-24,Mobile app,618.4,Mobile app - Performance
+2024-01-24,Amazon,377.58,Amazon - Performance
+2024-01-24,eBay,272.13,eBay - Brand
+2024-01-25,Website,754.85,Website - Performance
+2024-01-25,Mobile app,679.43,Mobile app - Performance
+2024-01-25,Amazon,374.62,Amazon - Brand
+2024-01-25,eBay,238.46,eBay - Brand
+2024-01-26,Website,332.93,Website - Brand
+2024-01-26,Mobile app,465.74,Mobile app - Brand
+2024-01-26,Amazon,603.22,Amazon - Brand
+2024-01-26,eBay,364.11,eBay - Performance
+2024-01-27,Website,395.64,Website - Brand
+2024-01-27,Mobile app,182.27,Mobile app - Brand
+2024-01-27,Amazon,540.39,Amazon - Brand
+2024-01-27,eBay,148.48,eBay - Brand
+2024-01-28,Website,518.48,Website - Brand
+2024-01-28,Mobile app,130.8,Mobile app - Brand
+2024-01-28,Amazon,688.55,Amazon - Brand
+2024-01-28,eBay,23.6,eBay - Brand
+2024-01-29,Website,395.77,Website - Brand
+2024-01-29,Mobile app,339.51,Mobile app - Brand
+2024-01-29,Amazon,551.11,Amazon - Performance
+2024-01-29,eBay,238.66,eBay - Brand
+2024-01-30,Website,262.47,Website - Brand
+2024-01-30,Mobile app,544.58,Mobile app - Performance
+2024-01-30,Amazon,255.24,Amazon - Brand
+2024-01-30,eBay,291.98,eBay - Brand
+2024-01-31,Website,351.68,Website - Brand
+2024-01-31,Mobile app,421.88,Mobile app - Performance
+2024-01-31,Amazon,766.4,Amazon - Performance
+2024-01-31,eBay,173.48,eBay - Performance
+2024-02-01,Website,656.08,Website - Brand
+2024-02-01,Mobile app,445.18,Mobile app - Performance
+2024-02-01,Amazon,503.04,Amazon - Performance
+2024-02-01,eBay,351.1,eBay - Performance
+2024-02-02,Website,633.48,Website - Performance
+2024-02-02,Mobile app,336.58,Mobile app - Performance
+2024-02-02,Amazon,419.41,Amazon - Brand
+2024-02-02,eBay,170.75,eBay - Brand
+2024-02-03,Website,985.62,Website - Performance
+2024-02-03,Mobile app,526.56,Mobile app - Brand
+2024-02-03,Amazon,373.52,Amazon - Brand
+2024-02-03,eBay,335.33,eBay - Performance
+2024-02-04,Website,1219.04,Website - Brand
+2024-02-04,Mobile app,634.2,Mobile app - Performance
+2024-02-04,Amazon,507.77,Amazon - Performance
+2024-02-04,eBay,429.25,eBay - Performance
+2024-02-05,Website,1232.21,Website - Performance
+2024-02-05,Mobile app,680.14,Mobile app - Performance
+2024-02-05,Amazon,454.77,Amazon - Brand
+2024-02-05,eBay,222.51,eBay - Performance
+2024-02-06,Website,644.43,Website - Brand
+2024-02-06,Mobile app,277.04,Mobile app - Brand
+2024-02-06,Amazon,372.73,Amazon - Brand
+2024-02-06,eBay,345.24,eBay - Brand
+2024-02-07,Website,1071.94,Website - Brand
+2024-02-07,Mobile app,402.05,Mobile app - Performance
+2024-02-07,Amazon,648.76,Amazon - Performance
+2024-02-07,eBay,368.56,eBay - Brand
+2024-02-08,Website,835.36,Website - Performance
+2024-02-08,Mobile app,603.35,Mobile app - Performance
+2024-02-08,Amazon,886.98,Amazon - Performance
+2024-02-08,eBay,310.84,eBay - Brand
+2024-02-09,Website,787.27,Website - Performance
+2024-02-09,Mobile app,595.92,Mobile app - Brand
+2024-02-09,Amazon,722.72,Amazon - Brand
+2024-02-09,eBay,440.55,eBay - Performance
+2024-02-10,Website,838.0,Website - Brand
+2024-02-10,Mobile app,675.26,Mobile app - Performance
+2024-02-10,Amazon,545.73,Amazon - Brand
+2024-02-10,eBay,214.9,eBay - Performance
+2024-02-11,Website,792.67,Website - Performance
+2024-02-11,Mobile app,473.65,Mobile app - Brand
+2024-02-11,Amazon,416.82,Amazon - Performance
+2024-02-11,eBay,218.52,eBay - Performance
+2024-02-12,Website,601.14,Website - Brand
+2024-02-12,Mobile app,610.09,Mobile app - Performance
+2024-02-12,Amazon,484.27,Amazon - Performance
+2024-02-12,eBay,334.87,eBay - Performance
+2024-02-13,Website,711.33,Website - Brand
+2024-02-13,Mobile app,455.71,Mobile app - Brand
+2024-02-13,Amazon,861.87,Amazon - Performance
+2024-02-13,eBay,330.65,eBay - Performance
+2024-02-14,Website,914.63,Website - Brand
+2024-02-14,Mobile app,542.53,Mobile app - Brand
+2024-02-14,Amazon,544.15,Amazon - Brand
+2024-02-14,eBay,149.29,eBay - Performance
+2024-02-15,Website,1018.26,Website - Brand
+2024-02-15,Mobile app,643.5,Mobile app - Brand
+2024-02-15,Amazon,437.02,Amazon - Brand
+2024-02-15,eBay,403.14,eBay - Brand
+2024-02-16,Website,621.75,Website - Performance
+2024-02-16,Mobile app,523.59,Mobile app - Performance
+2024-02-16,Amazon,652.11,Amazon - Brand
+2024-02-16,eBay,157.12,eBay - Brand
+2024-02-17,Website,604.07,Website - Brand
+2024-02-17,Mobile app,471.4,Mobile app - Brand
+2024-02-17,Amazon,237.94,Amazon - Brand
+2024-02-17,eBay,417.6,eBay - Performance
+2024-02-18,Website,643.53,Website - Performance
+2024-02-18,Mobile app,985.33,Mobile app - Performance
+2024-02-18,Amazon,384.85,Amazon - Performance
+2024-02-18,eBay,72.92,eBay - Brand
+2024-02-19,Website,1055.86,Website - Performance
+2024-02-19,Mobile app,590.17,Mobile app - Brand
+2024-02-19,Amazon,846.31,Amazon - Brand
+2024-02-19,eBay,399.12,eBay - Performance
+2024-02-20,Website,418.91,Website - Performance
+2024-02-20,Mobile app,386.59,Mobile app - Performance
+2024-02-20,Amazon,645.62,Amazon - Performance
+2024-02-20,eBay,369.29,eBay - Performance
+2024-02-21,Website,916.49,Website - Brand
+2024-02-21,Mobile app,394.35,Mobile app - Performance
+2024-02-21,Amazon,744.83,Amazon - Performance
+2024-02-21,eBay,364.48,eBay - Brand
+2024-02-22,Website,943.95,Website - Brand
+2024-02-22,Mobile app,457.45,Mobile app - Brand
+2024-02-22,Amazon,684.7,Amazon - Brand
+2024-02-22,eBay,97.22,eBay - Performance
+2024-02-23,Website,527.5,Website - Performance
+2024-02-23,Mobile app,566.2,Mobile app - Brand
+2024-02-23,Amazon,1017.75,Amazon - Performance
+2024-02-23,eBay,312.94,eBay - Performance
+2024-02-24,Website,1082.77,Website - Brand
+2024-02-24,Mobile app,253.59,Mobile app - Brand
+2024-02-24,Amazon,666.3,Amazon - Performance
+2024-02-24,eBay,182.83,eBay - Performance
+2024-02-25,Website,647.8,Website - Performance
+2024-02-25,Mobile app,331.83,Mobile app - Performance
+2024-02-25,Amazon,618.7,Amazon - Performance
+2024-02-25,eBay,163.86,eBay - Brand
+2024-02-26,Website,623.65,Website - Performance
+2024-02-26,Mobile app,527.52,Mobile app - Brand
+2024-02-26,Amazon,253.81,Amazon - Performance
+2024-02-26,eBay,379.4,eBay - Performance
+2024-02-27,Website,827.47,Website - Performance
+2024-02-27,Mobile app,290.63,Mobile app - Brand
+2024-02-27,Amazon,649.08,Amazon - Performance
+2024-02-27,eBay,287.26,eBay - Brand
+2024-02-28,Website,750.91,Website - Performance
+2024-02-28,Mobile app,698.8,Mobile app - Brand
+2024-02-28,Amazon,556.67,Amazon - Performance
+2024-02-28,eBay,324.41,eBay - Performance
+2024-02-29,Website,963.86,Website - Brand
+2024-02-29,Mobile app,330.63,Mobile app - Brand
+2024-02-29,Amazon,874.07,Amazon - Performance
+2024-02-29,eBay,349.46,eBay - Brand
+2024-03-01,Website,872.04,Website - Brand
+2024-03-01,Mobile app,333.81,Mobile app - Brand
+2024-03-01,Amazon,405.12,Amazon - Performance
+2024-03-01,eBay,286.63,eBay - Performance
+2024-03-02,Website,959.04,Website - Performance
+2024-03-02,Mobile app,752.77,Mobile app - Performance
+2024-03-02,Amazon,930.28,Amazon - Brand
+2024-03-02,eBay,319.86,eBay - Performance
+2024-03-03,Website,641.96,Website - Performance
+2024-03-03,Mobile app,510.21,Mobile app - Brand
+2024-03-03,Amazon,666.25,Amazon - Brand
+2024-03-03,eBay,338.69,eBay - Brand
+2024-03-04,Website,1023.24,Website - Performance
+2024-03-04,Mobile app,575.59,Mobile app - Performance
+2024-03-04,Amazon,781.63,Amazon - Performance
+2024-03-04,eBay,210.46,eBay - Brand
+2024-03-05,Website,1245.99,Website - Performance
+2024-03-05,Mobile app,462.78,Mobile app - Performance
+2024-03-05,Amazon,542.99,Amazon - Performance
+2024-03-05,eBay,158.78,eBay - Performance
+2024-03-06,Website,1375.62,Website - Brand
+2024-03-06,Mobile app,520.06,Mobile app - Brand
+2024-03-06,Amazon,605.62,Amazon - Brand
+2024-03-06,eBay,287.81,eBay - Performance
+2024-03-07,Website,715.09,Website - Performance
+2024-03-07,Mobile app,519.53,Mobile app - Performance
+2024-03-07,Amazon,575.12,Amazon - Performance
+2024-03-07,eBay,185.92,eBay - Performance
+2024-03-08,Website,975.04,Website - Performance
+2024-03-08,Mobile app,408.28,Mobile app - Brand
+2024-03-08,Amazon,531.89,Amazon - Brand
+2024-03-08,eBay,348.17,eBay - Performance
+2024-03-09,Website,822.78,Website - Brand
+2024-03-09,Mobile app,234.27,Mobile app - Brand
+2024-03-09,Amazon,652.0,Amazon - Brand
+2024-03-09,eBay,371.91,eBay - Brand
+2024-03-10,Website,1109.53,Website - Performance
+2024-03-10,Mobile app,479.18,Mobile app - Brand
+2024-03-10,Amazon,393.77,Amazon - Brand
+2024-03-10,eBay,388.47,eBay - Performance
+2024-03-11,Website,818.32,Website - Brand
+2024-03-11,Mobile app,282.53,Mobile app - Performance
+2024-03-11,Amazon,863.61,Amazon - Brand
+2024-03-11,eBay,304.01,eBay - Brand
+2024-03-12,Website,822.67,Website - Performance
+2024-03-12,Mobile app,703.95,Mobile app - Performance
+2024-03-12,Amazon,546.26,Amazon - Performance
+2024-03-12,eBay,368.47,eBay - Performance
+2024-03-13,Website,802.42,Website - Brand
+2024-03-13,Mobile app,653.52,Mobile app - Performance
+2024-03-13,Amazon,569.29,Amazon - Performance
+2024-03-13,eBay,146.39,eBay - Performance
+2024-03-14,Website,1199.27,Website - Brand
+2024-03-14,Mobile app,443.12,Mobile app - Brand
+2024-03-14,Amazon,792.13,Amazon - Brand
+2024-03-14,eBay,293.99,eBay - Performance
+2024-03-15,Website,693.08,Website - Brand
+2024-03-15,Mobile app,462.08,Mobile app - Performance
+2024-03-15,Amazon,627.72,Amazon - Performance
+2024-03-15,eBay,416.41,eBay - Performance
+2024-03-16,Website,750.76,Website - Brand
+2024-03-16,Mobile app,388.12,Mobile app - Brand
+2024-03-16,Amazon,710.28,Amazon - Brand
+2024-03-16,eBay,361.37,eBay - Brand
+2024-03-17,Website,545.34,Website - Performance
+2024-03-17,Mobile app,597.83,Mobile app - Brand
+2024-03-17,Amazon,626.88,Amazon - Performance
+2024-03-17,eBay,209.75,eBay - Performance
+2024-03-18,Website,906.26,Website - Brand
+2024-03-18,Mobile app,778.13,Mobile app - Brand
+2024-03-18,Amazon,662.11,Amazon - Performance
+2024-03-18,eBay,211.89,eBay - Performance
+2024-03-19,Website,1046.34,Website - Brand
+2024-03-19,Mobile app,540.92,Mobile app - Performance
+2024-03-19,Amazon,893.66,Amazon - Brand
+2024-03-19,eBay,128.65,eBay - Performance
+2024-03-20,Website,692.6,Website - Performance
+2024-03-20,Mobile app,360.02,Mobile app - Performance
+2024-03-20,Amazon,518.58,Amazon - Performance
+2024-03-20,eBay,295.42,eBay - Performance
+2024-03-21,Website,315.55,Website - Performance
+2024-03-21,Mobile app,354.95,Mobile app - Performance
+2024-03-21,Amazon,563.98,Amazon - Brand
+2024-03-21,eBay,463.4,eBay - Performance
+2024-03-22,Website,699.04,Website - Brand
+2024-03-22,Mobile app,522.3,Mobile app - Brand
+2024-03-22,Amazon,1018.96,Amazon - Brand
+2024-03-22,eBay,311.06,eBay - Brand
+2024-03-23,Website,880.88,Website - Performance
+2024-03-23,Mobile app,482.51,Mobile app - Performance
+2024-03-23,Amazon,572.07,Amazon - Brand
+2024-03-23,eBay,244.06,eBay - Performance
+2024-03-24,Website,699.04,Website - Brand
+2024-03-24,Mobile app,772.51,Mobile app - Performance
+2024-03-24,Amazon,440.73,Amazon - Brand
+2024-03-24,eBay,358.31,eBay - Performance
+2024-03-25,Website,732.57,Website - Performance
+2024-03-25,Mobile app,617.71,Mobile app - Brand
+2024-03-25,Amazon,946.4,Amazon - Brand
+2024-03-25,eBay,256.61,eBay - Performance
+2024-03-26,Website,745.01,Website - Brand
+2024-03-26,Mobile app,484.13,Mobile app - Performance
+2024-03-26,Amazon,787.51,Amazon - Brand
+2024-03-26,eBay,99.48,eBay - Performance
+2024-03-27,Website,632.74,Website - Performance
+2024-03-27,Mobile app,828.88,Mobile app - Performance
+2024-03-27,Amazon,619.64,Amazon - Performance
+2024-03-27,eBay,369.03,eBay - Performance
+2024-03-28,Website,719.62,Website - Brand
+2024-03-28,Mobile app,471.54,Mobile app - Brand
+2024-03-28,Amazon,616.81,Amazon - Performance
+2024-03-28,eBay,346.94,eBay - Performance
+2024-03-29,Website,187.42,Website - Performance
+2024-03-29,Mobile app,602.69,Mobile app - Brand
+2024-03-29,Amazon,574.53,Amazon - Performance
+2024-03-29,eBay,236.68,eBay - Performance
+2024-03-30,Website,903.31,Website - Brand
+2024-03-30,Mobile app,784.51,Mobile app - Performance
+2024-03-30,Amazon,837.03,Amazon - Performance
+2024-03-30,eBay,505.91,eBay - Brand
+2024-03-31,Website,789.13,Website - Brand
+2024-03-31,Mobile app,476.24,Mobile app - Brand
+2024-03-31,Amazon,596.29,Amazon - Performance
+2024-03-31,eBay,318.04,eBay - Performance
+2024-04-01,Website,916.29,Website - Brand
+2024-04-01,Mobile app,635.65,Mobile app - Performance
+2024-04-01,Amazon,725.83,Amazon - Performance
+2024-04-01,eBay,274.5,eBay - Performance
+2024-04-02,Website,705.22,Website - Brand
+2024-04-02,Mobile app,245.25,Mobile app - Performance
+2024-04-02,Amazon,674.54,Amazon - Brand
+2024-04-02,eBay,268.21,eBay - Brand
+2024-04-03,Website,899.45,Website - Brand
+2024-04-03,Mobile app,406.71,Mobile app - Performance
+2024-04-03,Amazon,551.52,Amazon - Brand
+2024-04-03,eBay,289.59,eBay - Performance
+2024-04-04,Website,922.63,Website - Performance
+2024-04-04,Mobile app,736.45,Mobile app - Brand
+2024-04-04,Amazon,619.96,Amazon - Brand
+2024-04-04,eBay,280.3,eBay - Performance
+2024-04-05,Website,800.88,Website - Performance
+2024-04-05,Mobile app,358.48,Mobile app - Brand
+2024-04-05,Amazon,607.14,Amazon - Performance
+2024-04-05,eBay,291.94,eBay - Brand
+2024-04-06,Website,1271.19,Website - Performance
+2024-04-06,Mobile app,598.94,Mobile app - Brand
+2024-04-06,Amazon,928.43,Amazon - Performance
+2024-04-06,eBay,498.39,eBay - Brand
+2024-04-07,Website,389.0,Website - Performance
+2024-04-07,Mobile app,406.5,Mobile app - Performance
+2024-04-07,Amazon,406.19,Amazon - Brand
+2024-04-07,eBay,311.88,eBay - Brand
+2024-04-08,Website,729.93,Website - Brand
+2024-04-08,Mobile app,850.62,Mobile app - Performance
+2024-04-08,Amazon,254.6,Amazon - Performance
+2024-04-08,eBay,266.28,eBay - Performance
+2024-04-09,Website,635.38,Website - Performance
+2024-04-09,Mobile app,418.49,Mobile app - Brand
+2024-04-09,Amazon,552.05,Amazon - Brand
+2024-04-09,eBay,357.79,eBay - Performance
+2024-04-10,Website,958.66,Website - Performance
+2024-04-10,Mobile app,395.46,Mobile app - Brand
+2024-04-10,Amazon,398.35,Amazon - Brand
+2024-04-10,eBay,225.26,eBay - Brand
+2024-04-11,Website,665.95,Website - Performance
+2024-04-11,Mobile app,505.09,Mobile app - Brand
+2024-04-11,Amazon,477.39,Amazon - Brand
+2024-04-11,eBay,312.57,eBay - Brand
+2024-04-12,Website,902.58,Website - Brand
+2024-04-12,Mobile app,441.29,Mobile app - Performance
+2024-04-12,Amazon,705.75,Amazon - Brand
+2024-04-12,eBay,346.82,eBay - Performance
+2024-04-13,Website,861.81,Website - Brand
+2024-04-13,Mobile app,448.89,Mobile app - Brand
+2024-04-13,Amazon,836.0,Amazon - Performance
+2024-04-13,eBay,164.64,eBay - Brand
+2024-04-14,Website,589.65,Website - Brand
+2024-04-14,Mobile app,545.25,Mobile app - Performance
+2024-04-14,Amazon,633.65,Amazon - Brand
+2024-04-14,eBay,418.54,eBay - Performance
+2024-04-15,Website,964.47,Website - Performance
+2024-04-15,Mobile app,507.96,Mobile app - Brand
+2024-04-15,Amazon,330.29,Amazon - Performance
+2024-04-15,eBay,354.0,eBay - Performance
+2024-04-16,Website,1089.32,Website - Brand
+2024-04-16,Mobile app,341.31,Mobile app - Performance
+2024-04-16,Amazon,293.38,Amazon - Performance
+2024-04-16,eBay,336.0,eBay - Performance
+2024-04-17,Website,1138.4,Website - Performance
+2024-04-17,Mobile app,578.2,Mobile app - Performance
+2024-04-17,Amazon,180.61,Amazon - Brand
+2024-04-17,eBay,428.51,eBay - Brand
+2024-04-18,Website,566.08,Website - Performance
+2024-04-18,Mobile app,431.03,Mobile app - Brand
+2024-04-18,Amazon,746.1,Amazon - Brand
+2024-04-18,eBay,270.11,eBay - Brand
+2024-04-19,Website,892.98,Website - Brand
+2024-04-19,Mobile app,492.03,Mobile app - Brand
+2024-04-19,Amazon,580.61,Amazon - Brand
+2024-04-19,eBay,253.87,eBay - Performance
+2024-04-20,Website,901.08,Website - Brand
+2024-04-20,Mobile app,479.37,Mobile app - Brand
+2024-04-20,Amazon,569.02,Amazon - Brand
+2024-04-20,eBay,336.71,eBay - Performance
+2024-04-21,Website,589.64,Website - Performance
+2024-04-21,Mobile app,399.14,Mobile app - Brand
+2024-04-21,Amazon,649.33,Amazon - Brand
+2024-04-21,eBay,313.89,eBay - Performance
+2024-04-22,Website,231.5,Website - Brand
+2024-04-22,Mobile app,415.13,Mobile app - Performance
+2024-04-22,Amazon,703.35,Amazon - Brand
+2024-04-22,eBay,179.15,eBay - Brand
+2024-04-23,Website,983.9,Website - Performance
+2024-04-23,Mobile app,815.35,Mobile app - Brand
+2024-04-23,Amazon,516.28,Amazon - Brand
+2024-04-23,eBay,142.48,eBay - Brand
+2024-04-24,Website,1007.31,Website - Brand
+2024-04-24,Mobile app,635.17,Mobile app - Performance
+2024-04-24,Amazon,489.38,Amazon - Brand
+2024-04-24,eBay,266.57,eBay - Brand
+2024-04-25,Website,982.23,Website - Brand
+2024-04-25,Mobile app,584.29,Mobile app - Brand
+2024-04-25,Amazon,968.94,Amazon - Performance
+2024-04-25,eBay,237.87,eBay - Performance
+2024-04-26,Website,686.88,Website - Brand
+2024-04-26,Mobile app,313.44,Mobile app - Brand
+2024-04-26,Amazon,449.76,Amazon - Performance
+2024-04-26,eBay,257.7,eBay - Brand
+2024-04-27,Website,572.34,Website - Brand
+2024-04-27,Mobile app,667.86,Mobile app - Performance
+2024-04-27,Amazon,760.65,Amazon - Brand
+2024-04-27,eBay,247.11,eBay - Brand
+2024-04-28,Website,800.14,Website - Brand
+2024-04-28,Mobile app,751.95,Mobile app - Performance
+2024-04-28,Amazon,463.02,Amazon - Brand
+2024-04-28,eBay,319.39,eBay - Brand
+2024-04-29,Website,429.01,Website - Brand
+2024-04-29,Mobile app,506.27,Mobile app - Performance
+2024-04-29,Amazon,586.29,Amazon - Performance
+2024-04-29,eBay,171.03,eBay - Brand
+2024-04-30,Website,886.38,Website - Brand
+2024-04-30,Mobile app,526.2,Mobile app - Brand
+2024-04-30,Amazon,554.57,Amazon - Brand
+2024-04-30,eBay,400.15,eBay - Brand
+2024-05-01,Website,615.68,Website - Performance
+2024-05-01,Mobile app,542.75,Mobile app - Performance
+2024-05-01,Amazon,535.06,Amazon - Brand
+2024-05-01,eBay,291.45,eBay - Brand
+2024-05-02,Website,252.44,Website - Performance
+2024-05-02,Mobile app,572.52,Mobile app - Performance
+2024-05-02,Amazon,634.3,Amazon - Brand
+2024-05-02,eBay,131.01,eBay - Performance
+2024-05-03,Website,634.73,Website - Brand
+2024-05-03,Mobile app,751.22,Mobile app - Performance
+2024-05-03,Amazon,659.39,Amazon - Performance
+2024-05-03,eBay,300.24,eBay - Performance
+2024-05-04,Website,695.55,Website - Brand
+2024-05-04,Mobile app,548.42,Mobile app - Brand
+2024-05-04,Amazon,874.98,Amazon - Brand
+2024-05-04,eBay,345.9,eBay - Brand
+2024-05-05,Website,774.19,Website - Brand
+2024-05-05,Mobile app,263.61,Mobile app - Brand
+2024-05-05,Amazon,543.33,Amazon - Performance
+2024-05-05,eBay,390.55,eBay - Brand
+2024-05-06,Website,895.54,Website - Brand
+2024-05-06,Mobile app,493.21,Mobile app - Performance
+2024-05-06,Amazon,452.99,Amazon - Brand
+2024-05-06,eBay,304.75,eBay - Performance
+2024-05-07,Website,803.68,Website - Performance
+2024-05-07,Mobile app,492.06,Mobile app - Brand
+2024-05-07,Amazon,527.6,Amazon - Performance
+2024-05-07,eBay,287.79,eBay - Performance
+2024-05-08,Website,665.94,Website - Performance
+2024-05-08,Mobile app,285.98,Mobile app - Performance
+2024-05-08,Amazon,280.68,Amazon - Performance
+2024-05-08,eBay,390.25,eBay - Brand
+2024-05-09,Website,645.16,Website - Performance
+2024-05-09,Mobile app,545.24,Mobile app - Performance
+2024-05-09,Amazon,368.92,Amazon - Brand
+2024-05-09,eBay,296.37,eBay - Brand
+2024-05-10,Website,673.84,Website - Performance
+2024-05-10,Mobile app,144.72,Mobile app - Performance
+2024-05-10,Amazon,660.88,Amazon - Performance
+2024-05-10,eBay,482.57,eBay - Performance
+2024-05-11,Website,773.73,Website - Brand
+2024-05-11,Mobile app,428.42,Mobile app - Brand
+2024-05-11,Amazon,450.16,Amazon - Brand
+2024-05-11,eBay,467.31,eBay - Brand
+2024-05-12,Website,832.02,Website - Performance
+2024-05-12,Mobile app,377.49,Mobile app - Brand
+2024-05-12,Amazon,520.25,Amazon - Brand
+2024-05-12,eBay,359.14,eBay - Performance
+2024-05-13,Website,926.0,Website - Brand
+2024-05-13,Mobile app,378.91,Mobile app - Performance
+2024-05-13,Amazon,575.57,Amazon - Brand
+2024-05-13,eBay,251.78,eBay - Brand
+2024-05-14,Website,1085.22,Website - Performance
+2024-05-14,Mobile app,622.89,Mobile app - Brand
+2024-05-14,Amazon,481.31,Amazon - Performance
+2024-05-14,eBay,429.29,eBay - Brand
+2024-05-15,Website,751.34,Website - Performance
+2024-05-15,Mobile app,640.72,Mobile app - Brand
+2024-05-15,Amazon,337.05,Amazon - Performance
+2024-05-15,eBay,233.07,eBay - Brand
+2024-05-16,Website,1157.6,Website - Brand
+2024-05-16,Mobile app,619.38,Mobile app - Performance
+2024-05-16,Amazon,799.38,Amazon - Performance
+2024-05-16,eBay,348.36,eBay - Performance
+2024-05-17,Website,774.4,Website - Performance
+2024-05-17,Mobile app,762.02,Mobile app - Brand
+2024-05-17,Amazon,705.89,Amazon - Performance
+2024-05-17,eBay,319.7,eBay - Performance
+2024-05-18,Website,629.76,Website - Brand
+2024-05-18,Mobile app,502.94,Mobile app - Performance
+2024-05-18,Amazon,642.35,Amazon - Performance
+2024-05-18,eBay,323.31,eBay - Brand
+2024-05-19,Website,1048.22,Website - Performance
+2024-05-19,Mobile app,497.89,Mobile app - Performance
+2024-05-19,Amazon,531.87,Amazon - Performance
+2024-05-19,eBay,423.64,eBay - Performance
+2024-05-20,Website,759.83,Website - Performance
+2024-05-20,Mobile app,808.0,Mobile app - Performance
+2024-05-20,Amazon,713.65,Amazon - Brand
+2024-05-20,eBay,445.31,eBay - Brand
+2024-05-21,Website,765.16,Website - Performance
+2024-05-21,Mobile app,498.06,Mobile app - Performance
+2024-05-21,Amazon,836.37,Amazon - Brand
+2024-05-21,eBay,338.58,eBay - Brand
+2024-05-22,Website,489.41,Website - Performance
+2024-05-22,Mobile app,463.62,Mobile app - Performance
+2024-05-22,Amazon,383.42,Amazon - Performance
+2024-05-22,eBay,341.27,eBay - Brand
+2024-05-23,Website,971.18,Website - Performance
+2024-05-23,Mobile app,466.68,Mobile app - Brand
+2024-05-23,Amazon,663.03,Amazon - Brand
+2024-05-23,eBay,300.77,eBay - Performance
+2024-05-24,Website,1025.8,Website - Performance
+2024-05-24,Mobile app,437.42,Mobile app - Performance
+2024-05-24,Amazon,564.2,Amazon - Brand
+2024-05-24,eBay,140.0,eBay - Brand
+2024-05-25,Website,676.39,Website - Brand
+2024-05-25,Mobile app,839.96,Mobile app - Brand
+2024-05-25,Amazon,254.17,Amazon - Performance
+2024-05-25,eBay,413.5,eBay - Brand
+2024-05-26,Website,874.84,Website - Brand
+2024-05-26,Mobile app,630.25,Mobile app - Brand
+2024-05-26,Amazon,905.08,Amazon - Brand
+2024-05-26,eBay,271.85,eBay - Performance
+2024-05-27,Website,800.17,Website - Performance
+2024-05-27,Mobile app,614.32,Mobile app - Performance
+2024-05-27,Amazon,782.85,Amazon - Brand
+2024-05-27,eBay,347.76,eBay - Brand
+2024-05-28,Website,791.5,Website - Performance
+2024-05-28,Mobile app,537.21,Mobile app - Performance
+2024-05-28,Amazon,228.52,Amazon - Performance
+2024-05-28,eBay,249.24,eBay - Brand
+2024-05-29,Website,974.19,Website - Brand
+2024-05-29,Mobile app,566.0,Mobile app - Brand
+2024-05-29,Amazon,687.91,Amazon - Performance
+2024-05-29,eBay,326.01,eBay - Brand
+2024-05-30,Website,741.69,Website - Brand
+2024-05-30,Mobile app,394.77,Mobile app - Performance
+2024-05-30,Amazon,624.51,Amazon - Performance
+2024-05-30,eBay,135.06,eBay - Performance
+2024-05-31,Website,1031.38,Website - Brand
+2024-05-31,Mobile app,346.27,Mobile app - Brand
+2024-05-31,Amazon,856.93,Amazon - Performance
+2024-05-31,eBay,323.9,eBay - Brand
+2024-06-01,Website,1055.4,Website - Performance
+2024-06-01,Mobile app,318.05,Mobile app - Brand
+2024-06-01,Amazon,857.21,Amazon - Brand
+2024-06-01,eBay,491.63,eBay - Performance
+2024-06-02,Website,868.71,Website - Performance
+2024-06-02,Mobile app,352.73,Mobile app - Brand
+2024-06-02,Amazon,564.06,Amazon - Performance
+2024-06-02,eBay,320.07,eBay - Performance
+2024-06-03,Website,958.88,Website - Performance
+2024-06-03,Mobile app,322.9,Mobile app - Brand
+2024-06-03,Amazon,670.95,Amazon - Performance
+2024-06-03,eBay,258.07,eBay - Performance
+2024-06-04,Website,540.82,Website - Brand
+2024-06-04,Mobile app,452.66,Mobile app - Brand
+2024-06-04,Amazon,769.5,Amazon - Brand
+2024-06-04,eBay,245.25,eBay - Brand
+2024-06-05,Website,946.73,Website - Performance
+2024-06-05,Mobile app,633.77,Mobile app - Performance
+2024-06-05,Amazon,830.33,Amazon - Performance
+2024-06-05,eBay,211.38,eBay - Performance
+2024-06-06,Website,973.34,Website - Performance
+2024-06-06,Mobile app,597.17,Mobile app - Performance
+2024-06-06,Amazon,416.1,Amazon - Performance
+2024-06-06,eBay,368.99,eBay - Brand
+2024-06-07,Website,615.48,Website - Performance
+2024-06-07,Mobile app,876.88,Mobile app - Performance
+2024-06-07,Amazon,788.47,Amazon - Performance
+2024-06-07,eBay,281.6,eBay - Brand
+2024-06-08,Website,955.99,Website - Brand
+2024-06-08,Mobile app,443.52,Mobile app - Brand
+2024-06-08,Amazon,564.77,Amazon - Performance
+2024-06-08,eBay,319.52,eBay - Brand
+2024-06-09,Website,694.95,Website - Brand
+2024-06-09,Mobile app,487.76,Mobile app - Brand
+2024-06-09,Amazon,1184.98,Amazon - Performance
+2024-06-09,eBay,415.83,eBay - Performance
+2024-06-10,Website,804.97,Website - Performance
+2024-06-10,Mobile app,509.2,Mobile app - Brand
+2024-06-10,Amazon,804.54,Amazon - Performance
+2024-06-10,eBay,250.49,eBay - Performance
+2024-06-11,Website,672.99,Website - Brand
+2024-06-11,Mobile app,436.4,Mobile app - Performance
+2024-06-11,Amazon,470.42,Amazon - Brand
+2024-06-11,eBay,489.03,eBay - Brand
+2024-06-12,Website,495.84,Website - Performance
+2024-06-12,Mobile app,517.01,Mobile app - Performance
+2024-06-12,Amazon,426.06,Amazon - Performance
+2024-06-12,eBay,279.65,eBay - Performance
+2024-06-13,Website,659.27,Website - Brand
+2024-06-13,Mobile app,524.91,Mobile app - Brand
+2024-06-13,Amazon,463.36,Amazon - Brand
+2024-06-13,eBay,360.1,eBay - Brand
+2024-06-14,Website,995.35,Website - Performance
+2024-06-14,Mobile app,220.08,Mobile app - Performance
+2024-06-14,Amazon,483.52,Amazon - Brand
+2024-06-14,eBay,453.93,eBay - Brand
+2024-06-15,Website,985.8,Website - Performance
+2024-06-15,Mobile app,418.7,Mobile app - Performance
+2024-06-15,Amazon,797.6,Amazon - Performance
+2024-06-15,eBay,211.94,eBay - Performance
+2024-06-16,Website,688.05,Website - Performance
+2024-06-16,Mobile app,695.16,Mobile app - Performance
+2024-06-16,Amazon,874.15,Amazon - Performance
+2024-06-16,eBay,176.21,eBay - Brand
+2024-06-17,Website,1022.6,Website - Performance
+2024-06-17,Mobile app,475.56,Mobile app - Brand
+2024-06-17,Amazon,663.98,Amazon - Performance
+2024-06-17,eBay,431.56,eBay - Brand
+2024-06-18,Website,755.77,Website - Performance
+2024-06-18,Mobile app,349.85,Mobile app - Brand
+2024-06-18,Amazon,246.48,Amazon - Brand
+2024-06-18,eBay,389.1,eBay - Brand
+2024-06-19,Website,704.9,Website - Brand
+2024-06-19,Mobile app,719.48,Mobile app - Brand
+2024-06-19,Amazon,368.33,Amazon - Brand
+2024-06-19,eBay,239.84,eBay - Brand
+2024-06-20,Website,922.91,Website - Brand
+2024-06-20,Mobile app,582.47,Mobile app - Performance
+2024-06-20,Amazon,498.28,Amazon - Performance
+2024-06-20,eBay,350.25,eBay - Performance
+2024-06-21,Website,727.18,Website - Performance
+2024-06-21,Mobile app,541.11,Mobile app - Brand
+2024-06-21,Amazon,670.43,Amazon - Performance
+2024-06-21,eBay,394.27,eBay - Performance
+2024-06-22,Website,506.11,Website - Brand
+2024-06-22,Mobile app,707.64,Mobile app - Brand
+2024-06-22,Amazon,711.25,Amazon - Performance
+2024-06-22,eBay,319.11,eBay - Performance
+2024-06-23,Website,514.75,Website - Performance
+2024-06-23,Mobile app,382.32,Mobile app - Brand
+2024-06-23,Amazon,758.43,Amazon - Brand
+2024-06-23,eBay,262.0,eBay - Performance
+2024-06-24,Website,624.42,Website - Performance
+2024-06-24,Mobile app,587.44,Mobile app - Performance
+2024-06-24,Amazon,492.53,Amazon - Performance
+2024-06-24,eBay,141.27,eBay - Brand
+2024-06-25,Website,420.27,Website - Brand
+2024-06-25,Mobile app,837.11,Mobile app - Brand
+2024-06-25,Amazon,744.06,Amazon - Performance
+2024-06-25,eBay,309.65,eBay - Brand
+2024-06-26,Website,647.73,Website - Brand
+2024-06-26,Mobile app,380.24,Mobile app - Performance
+2024-06-26,Amazon,764.6,Amazon - Performance
+2024-06-26,eBay,390.26,eBay - Performance
+2024-06-27,Website,871.42,Website - Brand
+2024-06-27,Mobile app,405.68,Mobile app - Performance
+2024-06-27,Amazon,620.58,Amazon - Brand
+2024-06-27,eBay,305.86,eBay - Performance
+2024-06-28,Website,501.18,Website - Brand
+2024-06-28,Mobile app,313.37,Mobile app - Brand
+2024-06-28,Amazon,380.45,Amazon - Brand
+2024-06-28,eBay,125.97,eBay - Brand
+2024-06-29,Website,728.95,Website - Performance
+2024-06-29,Mobile app,565.83,Mobile app - Performance
+2024-06-29,Amazon,335.78,Amazon - Brand
+2024-06-29,eBay,388.26,eBay - Performance
+2024-06-30,Website,956.4,Website - Brand
+2024-06-30,Mobile app,358.22,Mobile app - Brand
+2024-06-30,Amazon,317.7,Amazon - Performance
+2024-06-30,eBay,314.11,eBay - Performance
+2024-07-01,Website,634.76,Website - Brand
+2024-07-01,Mobile app,371.96,Mobile app - Performance
+2024-07-01,Amazon,665.68,Amazon - Brand
+2024-07-01,eBay,295.0,eBay - Performance
+2024-07-02,Website,588.92,Website - Brand
+2024-07-02,Mobile app,631.82,Mobile app - Brand
+2024-07-02,Amazon,604.59,Amazon - Performance
+2024-07-02,eBay,353.56,eBay - Performance
+2024-07-03,Website,1111.61,Website - Performance
+2024-07-03,Mobile app,341.53,Mobile app - Brand
+2024-07-03,Amazon,481.41,Amazon - Performance
+2024-07-03,eBay,298.41,eBay - Brand
+2024-07-04,Website,916.65,Website - Brand
+2024-07-04,Mobile app,218.68,Mobile app - Brand
+2024-07-04,Amazon,395.66,Amazon - Performance
+2024-07-04,eBay,126.91,eBay - Performance
+2024-07-05,Website,693.22,Website - Brand
+2024-07-05,Mobile app,307.87,Mobile app - Performance
+2024-07-05,Amazon,644.64,Amazon - Brand
+2024-07-05,eBay,286.63,eBay - Performance
+2024-07-06,Website,944.14,Website - Performance
+2024-07-06,Mobile app,230.28,Mobile app - Brand
+2024-07-06,Amazon,809.38,Amazon - Performance
+2024-07-06,eBay,292.88,eBay - Brand
+2024-07-07,Website,672.73,Website - Brand
+2024-07-07,Mobile app,339.05,Mobile app - Brand
+2024-07-07,Amazon,533.44,Amazon - Brand
+2024-07-07,eBay,296.78,eBay - Performance
+2024-07-08,Website,717.57,Website - Performance
+2024-07-08,Mobile app,388.36,Mobile app - Performance
+2024-07-08,Amazon,589.57,Amazon - Performance
+2024-07-08,eBay,312.44,eBay - Performance
+2024-07-09,Website,917.8,Website - Brand
+2024-07-09,Mobile app,556.18,Mobile app - Brand
+2024-07-09,Amazon,694.85,Amazon - Performance
+2024-07-09,eBay,239.07,eBay - Performance
+2024-07-10,Website,639.7,Website - Performance
+2024-07-10,Mobile app,517.51,Mobile app - Performance
+2024-07-10,Amazon,641.88,Amazon - Performance
+2024-07-10,eBay,168.89,eBay - Performance
+2024-07-11,Website,816.58,Website - Performance
+2024-07-11,Mobile app,295.21,Mobile app - Performance
+2024-07-11,Amazon,914.91,Amazon - Performance
+2024-07-11,eBay,286.7,eBay - Brand
+2024-07-12,Website,446.82,Website - Performance
+2024-07-12,Mobile app,437.88,Mobile app - Brand
+2024-07-12,Amazon,778.75,Amazon - Brand
+2024-07-12,eBay,272.85,eBay - Brand
+2024-07-13,Website,996.33,Website - Brand
+2024-07-13,Mobile app,511.34,Mobile app - Performance
+2024-07-13,Amazon,520.81,Amazon - Performance
+2024-07-13,eBay,277.95,eBay - Brand
+2024-07-14,Website,666.23,Website - Performance
+2024-07-14,Mobile app,453.25,Mobile app - Brand
+2024-07-14,Amazon,882.13,Amazon - Performance
+2024-07-14,eBay,183.27,eBay - Brand
+2024-07-15,Website,709.72,Website - Performance
+2024-07-15,Mobile app,626.58,Mobile app - Brand
+2024-07-15,Amazon,489.61,Amazon - Brand
+2024-07-15,eBay,352.99,eBay - Performance
+2024-07-16,Website,702.17,Website - Performance
+2024-07-16,Mobile app,606.76,Mobile app - Brand
+2024-07-16,Amazon,7.82,Amazon - Brand
+2024-07-16,eBay,331.69,eBay - Performance
+2024-07-17,Website,875.75,Website - Brand
+2024-07-17,Mobile app,415.78,Mobile app - Brand
+2024-07-17,Amazon,610.46,Amazon - Performance
+2024-07-17,eBay,152.11,eBay - Brand
+2024-07-18,Website,931.64,Website - Brand
+2024-07-18,Mobile app,434.06,Mobile app - Performance
+2024-07-18,Amazon,648.92,Amazon - Performance
+2024-07-18,eBay,301.74,eBay - Performance
+2024-07-19,Website,841.66,Website - Performance
+2024-07-19,Mobile app,498.57,Mobile app - Performance
+2024-07-19,Amazon,952.51,Amazon - Brand
+2024-07-19,eBay,193.8,eBay - Performance
+2024-07-20,Website,453.28,Website - Performance
+2024-07-20,Mobile app,791.05,Mobile app - Brand
+2024-07-20,Amazon,433.91,Amazon - Performance
+2024-07-20,eBay,149.04,eBay - Performance
+2024-07-21,Website,1245.72,Website - Brand
+2024-07-21,Mobile app,522.71,Mobile app - Performance
+2024-07-21,Amazon,556.33,Amazon - Brand
+2024-07-21,eBay,137.52,eBay - Brand
+2024-07-22,Website,737.61,Website - Brand
+2024-07-22,Mobile app,319.52,Mobile app - Performance
+2024-07-22,Amazon,654.6,Amazon - Performance
+2024-07-22,eBay,257.72,eBay - Performance
+2024-07-23,Website,752.19,Website - Brand
+2024-07-23,Mobile app,609.76,Mobile app - Brand
+2024-07-23,Amazon,595.42,Amazon - Brand
+2024-07-23,eBay,483.96,eBay - Performance
+2024-07-24,Website,938.28,Website - Performance
+2024-07-24,Mobile app,497.76,Mobile app - Brand
+2024-07-24,Amazon,982.57,Amazon - Brand
+2024-07-24,eBay,298.43,eBay - Brand
+2024-07-25,Website,637.45,Website - Performance
+2024-07-25,Mobile app,506.23,Mobile app - Performance
+2024-07-25,Amazon,629.07,Amazon - Performance
+2024-07-25,eBay,415.29,eBay - Performance
+2024-07-26,Website,288.17,Website - Performance
+2024-07-26,Mobile app,436.99,Mobile app - Brand
+2024-07-26,Amazon,515.7,Amazon - Performance
+2024-07-26,eBay,264.76,eBay - Brand
+2024-07-27,Website,1032.13,Website - Performance
+2024-07-27,Mobile app,390.08,Mobile app - Performance
+2024-07-27,Amazon,664.59,Amazon - Brand
+2024-07-27,eBay,223.23,eBay - Performance
+2024-07-28,Website,239.61,Website - Brand
+2024-07-28,Mobile app,466.95,Mobile app - Brand
+2024-07-28,Amazon,422.38,Amazon - Performance
+2024-07-28,eBay,341.22,eBay - Performance
+2024-07-29,Website,432.91,Website - Brand
+2024-07-29,Mobile app,285.39,Mobile app - Performance
+2024-07-29,Amazon,481.25,Amazon - Brand
+2024-07-29,eBay,279.32,eBay - Performance
+2024-07-30,Website,908.67,Website - Brand
+2024-07-30,Mobile app,508.73,Mobile app - Performance
+2024-07-30,Amazon,598.5,Amazon - Performance
+2024-07-30,eBay,214.37,eBay - Brand
+2024-07-31,Website,1043.48,Website - Brand
+2024-07-31,Mobile app,336.28,Mobile app - Brand
+2024-07-31,Amazon,758.35,Amazon - Performance
+2024-07-31,eBay,223.21,eBay - Brand
+2024-08-01,Website,795.96,Website - Brand
+2024-08-01,Mobile app,698.15,Mobile app - Brand
+2024-08-01,Amazon,938.46,Amazon - Brand
+2024-08-01,eBay,167.38,eBay - Performance
+2024-08-02,Website,818.29,Website - Brand
+2024-08-02,Mobile app,580.73,Mobile app - Performance
+2024-08-02,Amazon,640.3,Amazon - Performance
+2024-08-02,eBay,107.38,eBay - Performance
+2024-08-03,Website,988.5,Website - Performance
+2024-08-03,Mobile app,456.18,Mobile app - Performance
+2024-08-03,Amazon,615.49,Amazon - Performance
+2024-08-03,eBay,269.28,eBay - Performance
+2024-08-04,Website,1031.86,Website - Brand
+2024-08-04,Mobile app,572.71,Mobile app - Brand
+2024-08-04,Amazon,606.38,Amazon - Brand
+2024-08-04,eBay,308.18,eBay - Performance
+2024-08-05,Website,805.02,Website - Brand
+2024-08-05,Mobile app,347.4,Mobile app - Performance
+2024-08-05,Amazon,288.85,Amazon - Brand
+2024-08-05,eBay,379.5,eBay - Performance
+2024-08-06,Website,687.8,Website - Performance
+2024-08-06,Mobile app,449.6,Mobile app - Brand
+2024-08-06,Amazon,585.66,Amazon - Brand
+2024-08-06,eBay,182.1,eBay - Performance
+2024-08-07,Website,227.93,Website - Performance
+2024-08-07,Mobile app,580.28,Mobile app - Performance
+2024-08-07,Amazon,520.56,Amazon - Performance
+2024-08-07,eBay,341.88,eBay - Performance
+2024-08-08,Website,639.16,Website - Performance
+2024-08-08,Mobile app,699.56,Mobile app - Brand
+2024-08-08,Amazon,331.7,Amazon - Performance
+2024-08-08,eBay,315.86,eBay - Performance
+2024-08-09,Website,916.63,Website - Performance
+2024-08-09,Mobile app,582.24,Mobile app - Brand
+2024-08-09,Amazon,185.92,Amazon - Performance
+2024-08-09,eBay,338.91,eBay - Brand
+2024-08-10,Website,778.72,Website - Performance
+2024-08-10,Mobile app,619.87,Mobile app - Performance
+2024-08-10,Amazon,777.21,Amazon - Performance
+2024-08-10,eBay,427.69,eBay - Performance
+2024-08-11,Website,537.92,Website - Performance
+2024-08-11,Mobile app,559.81,Mobile app - Performance
+2024-08-11,Amazon,773.02,Amazon - Performance
+2024-08-11,eBay,276.7,eBay - Brand
+2024-08-12,Website,117.5,Website - Brand
+2024-08-12,Mobile app,447.56,Mobile app - Performance
+2024-08-12,Amazon,724.17,Amazon - Performance
+2024-08-12,eBay,251.79,eBay - Brand
+2024-08-13,Website,962.36,Website - Brand
+2024-08-13,Mobile app,557.0,Mobile app - Brand
+2024-08-13,Amazon,454.1,Amazon - Brand
+2024-08-13,eBay,300.15,eBay - Performance
+2024-08-14,Website,634.1,Website - Performance
+2024-08-14,Mobile app,443.32,Mobile app - Brand
+2024-08-14,Amazon,695.81,Amazon - Performance
+2024-08-14,eBay,370.58,eBay - Brand
+2024-08-15,Website,901.32,Website - Brand
+2024-08-15,Mobile app,65.25,Mobile app - Performance
+2024-08-15,Amazon,532.96,Amazon - Brand
+2024-08-15,eBay,311.74,eBay - Performance
+2024-08-16,Website,877.12,Website - Brand
+2024-08-16,Mobile app,730.77,Mobile app - Brand
+2024-08-16,Amazon,526.67,Amazon - Brand
+2024-08-16,eBay,299.92,eBay - Brand
+2024-08-17,Website,1049.57,Website - Brand
+2024-08-17,Mobile app,466.86,Mobile app - Performance
+2024-08-17,Amazon,1043.92,Amazon - Brand
+2024-08-17,eBay,343.58,eBay - Performance
+2024-08-18,Website,135.17,Website - Performance
+2024-08-18,Mobile app,343.86,Mobile app - Brand
+2024-08-18,Amazon,653.15,Amazon - Brand
+2024-08-18,eBay,118.01,eBay - Performance
+2024-08-19,Website,422.06,Website - Performance
+2024-08-19,Mobile app,388.94,Mobile app - Brand
+2024-08-19,Amazon,374.58,Amazon - Brand
+2024-08-19,eBay,265.02,eBay - Performance
+2024-08-20,Website,749.52,Website - Brand
+2024-08-20,Mobile app,499.6,Mobile app - Performance
+2024-08-20,Amazon,537.06,Amazon - Performance
+2024-08-20,eBay,232.23,eBay - Brand
+2024-08-21,Website,912.93,Website - Brand
+2024-08-21,Mobile app,643.62,Mobile app - Performance
+2024-08-21,Amazon,452.22,Amazon - Brand
+2024-08-21,eBay,431.96,eBay - Performance
+2024-08-22,Website,790.88,Website - Performance
+2024-08-22,Mobile app,645.23,Mobile app - Brand
+2024-08-22,Amazon,725.03,Amazon - Brand
+2024-08-22,eBay,139.95,eBay - Brand
+2024-08-23,Website,1050.63,Website - Brand
+2024-08-23,Mobile app,883.23,Mobile app - Brand
+2024-08-23,Amazon,609.64,Amazon - Brand
+2024-08-23,eBay,381.35,eBay - Performance
+2024-08-24,Website,946.65,Website - Brand
+2024-08-24,Mobile app,154.83,Mobile app - Performance
+2024-08-24,Amazon,773.14,Amazon - Performance
+2024-08-24,eBay,341.5,eBay - Performance
+2024-08-25,Website,1208.86,Website - Performance
+2024-08-25,Mobile app,450.36,Mobile app - Performance
+2024-08-25,Amazon,548.78,Amazon - Brand
+2024-08-25,eBay,108.58,eBay - Performance
+2024-08-26,Website,693.05,Website - Brand
+2024-08-26,Mobile app,608.09,Mobile app - Performance
+2024-08-26,Amazon,505.19,Amazon - Brand
+2024-08-26,eBay,277.53,eBay - Brand
+2024-08-27,Website,486.21,Website - Brand
+2024-08-27,Mobile app,474.91,Mobile app - Brand
+2024-08-27,Amazon,702.4,Amazon - Performance
+2024-08-27,eBay,259.06,eBay - Performance
+2024-08-28,Website,1020.82,Website - Performance
+2024-08-28,Mobile app,566.8,Mobile app - Brand
+2024-08-28,Amazon,503.32,Amazon - Performance
+2024-08-28,eBay,357.59,eBay - Brand
+2024-08-29,Website,1160.16,Website - Performance
+2024-08-29,Mobile app,434.74,Mobile app - Performance
+2024-08-29,Amazon,747.79,Amazon - Performance
+2024-08-29,eBay,331.31,eBay - Performance
+2024-08-30,Website,458.37,Website - Brand
+2024-08-30,Mobile app,232.37,Mobile app - Performance
+2024-08-30,Amazon,438.95,Amazon - Brand
+2024-08-30,eBay,206.65,eBay - Brand
+2024-08-31,Website,1128.52,Website - Brand
+2024-08-31,Mobile app,632.59,Mobile app - Performance
+2024-08-31,Amazon,486.59,Amazon - Brand
+2024-08-31,eBay,303.69,eBay - Performance
+2024-09-01,Website,453.18,Website - Performance
+2024-09-01,Mobile app,602.45,Mobile app - Brand
+2024-09-01,Amazon,881.67,Amazon - Performance
+2024-09-01,eBay,308.18,eBay - Brand
+2024-09-02,Website,597.99,Website - Brand
+2024-09-02,Mobile app,438.38,Mobile app - Performance
+2024-09-02,Amazon,811.52,Amazon - Performance
+2024-09-02,eBay,255.39,eBay - Brand
+2024-09-03,Website,617.46,Website - Brand
+2024-09-03,Mobile app,526.38,Mobile app - Performance
+2024-09-03,Amazon,393.17,Amazon - Brand
+2024-09-03,eBay,319.13,eBay - Performance
+2024-09-04,Website,36.71,Website - Performance
+2024-09-04,Mobile app,425.72,Mobile app - Performance
+2024-09-04,Amazon,912.33,Amazon - Brand
+2024-09-04,eBay,334.82,eBay - Brand
+2024-09-05,Website,908.22,Website - Brand
+2024-09-05,Mobile app,744.56,Mobile app - Brand
+2024-09-05,Amazon,792.18,Amazon - Performance
+2024-09-05,eBay,383.88,eBay - Performance
+2024-09-06,Website,833.0,Website - Brand
+2024-09-06,Mobile app,492.62,Mobile app - Performance
+2024-09-06,Amazon,575.75,Amazon - Performance
+2024-09-06,eBay,365.5,eBay - Performance
+2024-09-07,Website,775.05,Website - Brand
+2024-09-07,Mobile app,570.76,Mobile app - Brand
+2024-09-07,Amazon,779.09,Amazon - Performance
+2024-09-07,eBay,239.93,eBay - Performance
+2024-09-08,Website,973.66,Website - Brand
+2024-09-08,Mobile app,393.58,Mobile app - Performance
+2024-09-08,Amazon,678.25,Amazon - Performance
+2024-09-08,eBay,212.44,eBay - Performance
+2024-09-09,Website,788.2,Website - Performance
+2024-09-09,Mobile app,625.5,Mobile app - Brand
+2024-09-09,Amazon,377.01,Amazon - Brand
+2024-09-09,eBay,285.97,eBay - Performance
+2024-09-10,Website,552.82,Website - Brand
+2024-09-10,Mobile app,678.72,Mobile app - Brand
+2024-09-10,Amazon,521.54,Amazon - Brand
+2024-09-10,eBay,36.38,eBay - Performance
+2024-09-11,Website,414.88,Website - Brand
+2024-09-11,Mobile app,418.6,Mobile app - Brand
+2024-09-11,Amazon,675.28,Amazon - Brand
+2024-09-11,eBay,363.76,eBay - Performance
+2024-09-12,Website,721.39,Website - Brand
+2024-09-12,Mobile app,572.05,Mobile app - Brand
+2024-09-12,Amazon,614.88,Amazon - Performance
+2024-09-12,eBay,243.26,eBay - Performance
+2024-09-13,Website,858.4,Website - Brand
+2024-09-13,Mobile app,774.01,Mobile app - Brand
+2024-09-13,Amazon,251.9,Amazon - Performance
+2024-09-13,eBay,245.15,eBay - Brand
+2024-09-14,Website,945.08,Website - Performance
+2024-09-14,Mobile app,680.57,Mobile app - Performance
+2024-09-14,Amazon,581.92,Amazon - Brand
+2024-09-14,eBay,279.44,eBay - Performance
+2024-09-15,Website,744.17,Website - Brand
+2024-09-15,Mobile app,446.53,Mobile app - Performance
+2024-09-15,Amazon,655.55,Amazon - Performance
+2024-09-15,eBay,215.75,eBay - Brand
+2024-09-16,Website,691.44,Website - Brand
+2024-09-16,Mobile app,495.74,Mobile app - Performance
+2024-09-16,Amazon,673.68,Amazon - Performance
+2024-09-16,eBay,342.36,eBay - Performance
+2024-09-17,Website,1024.25,Website - Performance
+2024-09-17,Mobile app,688.93,Mobile app - Performance
+2024-09-17,Amazon,825.05,Amazon - Brand
+2024-09-17,eBay,189.09,eBay - Brand
+2024-09-18,Website,1145.62,Website - Performance
+2024-09-18,Mobile app,73.62,Mobile app - Performance
+2024-09-18,Amazon,743.54,Amazon - Brand
+2024-09-18,eBay,409.47,eBay - Performance
+2024-09-19,Website,1164.67,Website - Brand
+2024-09-19,Mobile app,552.47,Mobile app - Performance
+2024-09-19,Amazon,513.75,Amazon - Brand
+2024-09-19,eBay,411.76,eBay - Performance
+2024-09-20,Website,504.09,Website - Performance
+2024-09-20,Mobile app,555.09,Mobile app - Brand
+2024-09-20,Amazon,648.34,Amazon - Brand
+2024-09-20,eBay,288.16,eBay - Brand
+2024-09-21,Website,874.85,Website - Brand
+2024-09-21,Mobile app,404.56,Mobile app - Performance
+2024-09-21,Amazon,421.0,Amazon - Brand
+2024-09-21,eBay,204.41,eBay - Brand
+2024-09-22,Website,930.64,Website - Brand
+2024-09-22,Mobile app,564.62,Mobile app - Performance
+2024-09-22,Amazon,500.8,Amazon - Performance
+2024-09-22,eBay,191.24,eBay - Brand
+2024-09-23,Website,541.04,Website - Brand
+2024-09-23,Mobile app,306.11,Mobile app - Brand
+2024-09-23,Amazon,575.29,Amazon - Brand
+2024-09-23,eBay,314.47,eBay - Brand
+2024-09-24,Website,977.27,Website - Brand
+2024-09-24,Mobile app,606.64,Mobile app - Performance
+2024-09-24,Amazon,451.06,Amazon - Brand
+2024-09-24,eBay,357.44,eBay - Performance
+2024-09-25,Website,861.99,Website - Brand
+2024-09-25,Mobile app,355.21,Mobile app - Brand
+2024-09-25,Amazon,807.03,Amazon - Performance
+2024-09-25,eBay,337.01,eBay - Performance
+2024-09-26,Website,866.16,Website - Brand
+2024-09-26,Mobile app,535.44,Mobile app - Performance
+2024-09-26,Amazon,702.02,Amazon - Brand
+2024-09-26,eBay,460.81,eBay - Brand
+2024-09-27,Website,834.8,Website - Performance
+2024-09-27,Mobile app,406.01,Mobile app - Brand
+2024-09-27,Amazon,440.35,Amazon - Brand
+2024-09-27,eBay,167.59,eBay - Brand
+2024-09-28,Website,829.29,Website - Performance
+2024-09-28,Mobile app,445.38,Mobile app - Brand
+2024-09-28,Amazon,732.85,Amazon - Performance
+2024-09-28,eBay,373.97,eBay - Performance
+2024-09-29,Website,714.9,Website - Brand
+2024-09-29,Mobile app,594.84,Mobile app - Performance
+2024-09-29,Amazon,629.01,Amazon - Brand
+2024-09-29,eBay,313.24,eBay - Performance
+2024-09-30,Website,824.05,Website - Performance
+2024-09-30,Mobile app,534.74,Mobile app - Brand
+2024-09-30,Amazon,730.47,Amazon - Brand
+2024-09-30,eBay,447.85,eBay - Performance
+2024-10-01,Website,910.64,Website - Brand
+2024-10-01,Mobile app,552.12,Mobile app - Performance
+2024-10-01,Amazon,424.88,Amazon - Performance
+2024-10-01,eBay,134.03,eBay - Performance
+2024-10-02,Website,832.97,Website - Brand
+2024-10-02,Mobile app,421.45,Mobile app - Performance
+2024-10-02,Amazon,795.26,Amazon - Performance
+2024-10-02,eBay,219.82,eBay - Brand
+2024-10-03,Website,320.71,Website - Performance
+2024-10-03,Mobile app,561.62,Mobile app - Performance
+2024-10-03,Amazon,568.61,Amazon - Performance
+2024-10-03,eBay,267.76,eBay - Performance
+2024-10-04,Website,807.0,Website - Brand
+2024-10-04,Mobile app,461.25,Mobile app - Performance
+2024-10-04,Amazon,453.1,Amazon - Brand
+2024-10-04,eBay,309.67,eBay - Brand
+2024-10-05,Website,989.81,Website - Performance
+2024-10-05,Mobile app,452.83,Mobile app - Brand
+2024-10-05,Amazon,848.62,Amazon - Performance
+2024-10-05,eBay,314.91,eBay - Performance
+2024-10-06,Website,902.57,Website - Performance
+2024-10-06,Mobile app,355.47,Mobile app - Brand
+2024-10-06,Amazon,633.07,Amazon - Brand
+2024-10-06,eBay,380.47,eBay - Performance
+2024-10-07,Website,931.36,Website - Performance
+2024-10-07,Mobile app,339.42,Mobile app - Performance
+2024-10-07,Amazon,474.2,Amazon - Performance
+2024-10-07,eBay,275.77,eBay - Brand
+2024-10-08,Website,803.13,Website - Brand
+2024-10-08,Mobile app,734.49,Mobile app - Performance
+2024-10-08,Amazon,848.7,Amazon - Brand
+2024-10-08,eBay,424.17,eBay - Brand
+2024-10-09,Website,1605.09,Website - Performance
+2024-10-09,Mobile app,518.37,Mobile app - Performance
+2024-10-09,Amazon,304.34,Amazon - Performance
+2024-10-09,eBay,321.28,eBay - Brand
+2024-10-10,Website,808.43,Website - Performance
+2024-10-10,Mobile app,478.2,Mobile app - Performance
+2024-10-10,Amazon,497.62,Amazon - Brand
+2024-10-10,eBay,427.77,eBay - Brand
+2024-10-11,Website,647.23,Website - Performance
+2024-10-11,Mobile app,401.36,Mobile app - Performance
+2024-10-11,Amazon,506.67,Amazon - Performance
+2024-10-11,eBay,342.88,eBay - Performance
+2024-10-12,Website,831.9,Website - Brand
+2024-10-12,Mobile app,407.67,Mobile app - Performance
+2024-10-12,Amazon,504.67,Amazon - Brand
+2024-10-12,eBay,238.63,eBay - Brand
+2024-10-13,Website,701.2,Website - Brand
+2024-10-13,Mobile app,539.4,Mobile app - Brand
+2024-10-13,Amazon,515.65,Amazon - Brand
+2024-10-13,eBay,364.47,eBay - Brand
+2024-10-14,Website,669.16,Website - Performance
+2024-10-14,Mobile app,321.45,Mobile app - Performance
+2024-10-14,Amazon,470.74,Amazon - Performance
+2024-10-14,eBay,455.48,eBay - Brand
+2024-10-15,Website,931.02,Website - Brand
+2024-10-15,Mobile app,151.62,Mobile app - Brand
+2024-10-15,Amazon,887.02,Amazon - Performance
+2024-10-15,eBay,282.04,eBay - Brand
+2024-10-16,Website,589.56,Website - Brand
+2024-10-16,Mobile app,707.47,Mobile app - Brand
+2024-10-16,Amazon,885.93,Amazon - Brand
+2024-10-16,eBay,255.48,eBay - Performance
+2024-10-17,Website,632.82,Website - Performance
+2024-10-17,Mobile app,712.95,Mobile app - Brand
+2024-10-17,Amazon,473.74,Amazon - Brand
+2024-10-17,eBay,205.37,eBay - Performance
+2024-10-18,Website,676.64,Website - Brand
+2024-10-18,Mobile app,596.63,Mobile app - Performance
+2024-10-18,Amazon,623.89,Amazon - Performance
+2024-10-18,eBay,312.69,eBay - Performance
+2024-10-19,Website,911.43,Website - Brand
+2024-10-19,Mobile app,660.09,Mobile app - Performance
+2024-10-19,Amazon,675.74,Amazon - Performance
+2024-10-19,eBay,338.15,eBay - Brand
+2024-10-20,Website,1081.43,Website - Brand
+2024-10-20,Mobile app,154.99,Mobile app - Brand
+2024-10-20,Amazon,755.49,Amazon - Performance
+2024-10-20,eBay,217.88,eBay - Performance
+2024-10-21,Website,1254.59,Website - Brand
+2024-10-21,Mobile app,761.34,Mobile app - Brand
+2024-10-21,Amazon,588.75,Amazon - Performance
+2024-10-21,eBay,87.01,eBay - Brand
+2024-10-22,Website,610.48,Website - Brand
+2024-10-22,Mobile app,488.3,Mobile app - Brand
+2024-10-22,Amazon,399.25,Amazon - Performance
+2024-10-22,eBay,298.5,eBay - Performance
+2024-10-23,Website,782.76,Website - Brand
+2024-10-23,Mobile app,56.24,Mobile app - Brand
+2024-10-23,Amazon,750.91,Amazon - Performance
+2024-10-23,eBay,261.06,eBay - Brand
+2024-10-24,Website,933.05,Website - Brand
+2024-10-24,Mobile app,616.22,Mobile app - Brand
+2024-10-24,Amazon,647.22,Amazon - Performance
+2024-10-24,eBay,446.62,eBay - Brand
+2024-10-25,Website,574.61,Website - Performance
+2024-10-25,Mobile app,308.71,Mobile app - Brand
+2024-10-25,Amazon,810.73,Amazon - Performance
+2024-10-25,eBay,365.95,eBay - Brand
+2024-10-26,Website,878.97,Website - Performance
+2024-10-26,Mobile app,655.14,Mobile app - Brand
+2024-10-26,Amazon,488.72,Amazon - Brand
+2024-10-26,eBay,406.03,eBay - Brand
+2024-10-27,Website,587.91,Website - Brand
+2024-10-27,Mobile app,195.69,Mobile app - Performance
+2024-10-27,Amazon,343.0,Amazon - Brand
+2024-10-27,eBay,315.92,eBay - Performance
+2024-10-28,Website,433.16,Website - Performance
+2024-10-28,Mobile app,447.17,Mobile app - Brand
+2024-10-28,Amazon,524.77,Amazon - Brand
+2024-10-28,eBay,303.28,eBay - Brand
+2024-10-29,Website,255.58,Website - Performance
+2024-10-29,Mobile app,682.99,Mobile app - Performance
+2024-10-29,Amazon,283.44,Amazon - Performance
+2024-10-29,eBay,298.82,eBay - Brand
+2024-10-30,Website,1150.28,Website - Brand
+2024-10-30,Mobile app,417.35,Mobile app - Brand
+2024-10-30,Amazon,257.31,Amazon - Performance
+2024-10-30,eBay,164.89,eBay - Performance
+2024-10-31,Website,565.38,Website - Brand
+2024-10-31,Mobile app,625.5,Mobile app - Performance
+2024-10-31,Amazon,610.09,Amazon - Brand
+2024-10-31,eBay,395.57,eBay - Brand
+2024-11-01,Website,1267.56,Website - Brand
+2024-11-01,Mobile app,692.68,Mobile app - Performance
+2024-11-01,Amazon,968.07,Amazon - Performance
+2024-11-01,eBay,531.05,eBay - Performance
+2024-11-02,Website,1514.92,Website - Brand
+2024-11-02,Mobile app,795.64,Mobile app - Brand
+2024-11-02,Amazon,1231.2,Amazon - Performance
+2024-11-02,eBay,471.54,eBay - Performance
+2024-11-03,Website,852.03,Website - Performance
+2024-11-03,Mobile app,612.88,Mobile app - Brand
+2024-11-03,Amazon,993.82,Amazon - Brand
+2024-11-03,eBay,618.48,eBay - Performance
+2024-11-04,Website,1432.43,Website - Performance
+2024-11-04,Mobile app,886.39,Mobile app - Brand
+2024-11-04,Amazon,943.75,Amazon - Performance
+2024-11-04,eBay,479.85,eBay - Performance
+2024-11-05,Website,1442.47,Website - Brand
+2024-11-05,Mobile app,806.54,Mobile app - Performance
+2024-11-05,Amazon,734.81,Amazon - Brand
+2024-11-05,eBay,383.91,eBay - Performance
+2024-11-06,Website,1258.96,Website - Brand
+2024-11-06,Mobile app,747.95,Mobile app - Performance
+2024-11-06,Amazon,928.85,Amazon - Brand
+2024-11-06,eBay,474.79,eBay - Performance
+2024-11-07,Website,1079.94,Website - Performance
+2024-11-07,Mobile app,631.48,Mobile app - Performance
+2024-11-07,Amazon,1114.12,Amazon - Performance
+2024-11-07,eBay,510.5,eBay - Performance
+2024-11-08,Website,1340.44,Website - Brand
+2024-11-08,Mobile app,924.43,Mobile app - Performance
+2024-11-08,Amazon,945.08,Amazon - Brand
+2024-11-08,eBay,315.04,eBay - Brand
+2024-11-09,Website,1004.26,Website - Brand
+2024-11-09,Mobile app,905.14,Mobile app - Performance
+2024-11-09,Amazon,1012.3,Amazon - Brand
+2024-11-09,eBay,748.67,eBay - Brand
+2024-11-10,Website,1557.3,Website - Performance
+2024-11-10,Mobile app,721.03,Mobile app - Performance
+2024-11-10,Amazon,1228.02,Amazon - Performance
+2024-11-10,eBay,456.85,eBay - Brand
+2024-11-11,Website,1534.32,Website - Brand
+2024-11-11,Mobile app,613.98,Mobile app - Performance
+2024-11-11,Amazon,954.18,Amazon - Performance
+2024-11-11,eBay,510.04,eBay - Brand
+2024-11-12,Website,1111.4,Website - Brand
+2024-11-12,Mobile app,591.94,Mobile app - Performance
+2024-11-12,Amazon,1273.86,Amazon - Performance
+2024-11-12,eBay,518.67,eBay - Performance
+2024-11-13,Website,1200.15,Website - Brand
+2024-11-13,Mobile app,565.21,Mobile app - Performance
+2024-11-13,Amazon,788.82,Amazon - Brand
+2024-11-13,eBay,595.7,eBay - Brand
+2024-11-14,Website,1278.33,Website - Brand
+2024-11-14,Mobile app,525.79,Mobile app - Performance
+2024-11-14,Amazon,882.95,Amazon - Brand
+2024-11-14,eBay,546.83,eBay - Brand
+2024-11-15,Website,917.63,Website - Performance
+2024-11-15,Mobile app,727.52,Mobile app - Brand
+2024-11-15,Amazon,949.36,Amazon - Performance
+2024-11-15,eBay,504.16,eBay - Performance
+2024-11-16,Website,1242.02,Website - Performance
+2024-11-16,Mobile app,908.48,Mobile app - Performance
+2024-11-16,Amazon,1155.05,Amazon - Performance
+2024-11-16,eBay,478.29,eBay - Performance
+2024-11-17,Website,1596.69,Website - Performance
+2024-11-17,Mobile app,990.75,Mobile app - Brand
+2024-11-17,Amazon,799.84,Amazon - Brand
+2024-11-17,eBay,490.06,eBay - Performance
+2024-11-18,Website,1167.05,Website - Brand
+2024-11-18,Mobile app,1070.55,Mobile app - Performance
+2024-11-18,Amazon,1003.22,Amazon - Brand
+2024-11-18,eBay,405.84,eBay - Brand
+2024-11-19,Website,1078.01,Website - Brand
+2024-11-19,Mobile app,990.96,Mobile app - Performance
+2024-11-19,Amazon,815.04,Amazon - Performance
+2024-11-19,eBay,550.15,eBay - Brand
+2024-11-20,Website,1397.96,Website - Brand
+2024-11-20,Mobile app,816.81,Mobile app - Brand
+2024-11-20,Amazon,1021.13,Amazon - Brand
+2024-11-20,eBay,646.16,eBay - Brand
+2024-11-21,Website,1009.97,Website - Performance
+2024-11-21,Mobile app,431.87,Mobile app - Performance
+2024-11-21,Amazon,1064.8,Amazon - Performance
+2024-11-21,eBay,429.56,eBay - Performance
+2024-11-22,Website,1403.63,Website - Brand
+2024-11-22,Mobile app,659.96,Mobile app - Performance
+2024-11-22,Amazon,606.62,Amazon - Brand
+2024-11-22,eBay,339.76,eBay - Brand
+2024-11-23,Website,1495.02,Website - Brand
+2024-11-23,Mobile app,763.48,Mobile app - Brand
+2024-11-23,Amazon,1181.47,Amazon - Performance
+2024-11-23,eBay,465.62,eBay - Performance
+2024-11-24,Website,850.78,Website - Performance
+2024-11-24,Mobile app,706.52,Mobile app - Performance
+2024-11-24,Amazon,841.48,Amazon - Brand
+2024-11-24,eBay,520.9,eBay - Performance
+2024-11-25,Website,706.73,Website - Brand
+2024-11-25,Mobile app,713.65,Mobile app - Performance
+2024-11-25,Amazon,1258.5,Amazon - Brand
+2024-11-25,eBay,439.05,eBay - Performance
+2024-11-26,Website,910.07,Website - Brand
+2024-11-26,Mobile app,715.17,Mobile app - Performance
+2024-11-26,Amazon,769.57,Amazon - Brand
+2024-11-26,eBay,562.78,eBay - Performance
+2024-11-27,Website,1237.03,Website - Brand
+2024-11-27,Mobile app,875.35,Mobile app - Brand
+2024-11-27,Amazon,902.75,Amazon - Brand
+2024-11-27,eBay,594.32,eBay - Brand
+2024-11-28,Website,1271.1,Website - Performance
+2024-11-28,Mobile app,746.13,Mobile app - Performance
+2024-11-28,Amazon,854.47,Amazon - Brand
+2024-11-28,eBay,517.6,eBay - Performance
+2024-11-29,Website,1582.76,Website - Brand
+2024-11-29,Mobile app,747.16,Mobile app - Performance
+2024-11-29,Amazon,1023.98,Amazon - Performance
+2024-11-29,eBay,655.39,eBay - Brand
+2024-11-30,Website,1491.61,Website - Performance
+2024-11-30,Mobile app,879.18,Mobile app - Brand
+2024-11-30,Amazon,835.49,Amazon - Brand
+2024-11-30,eBay,347.94,eBay - Brand
+2024-12-01,Website,939.05,Website - Brand
+2024-12-01,Mobile app,744.73,Mobile app - Brand
+2024-12-01,Amazon,1055.23,Amazon - Performance
+2024-12-01,eBay,306.2,eBay - Performance
+2024-12-02,Website,1013.02,Website - Brand
+2024-12-02,Mobile app,469.35,Mobile app - Performance
+2024-12-02,Amazon,630.53,Amazon - Performance
+2024-12-02,eBay,349.36,eBay - Performance
+2024-12-03,Website,759.42,Website - Performance
+2024-12-03,Mobile app,498.93,Mobile app - Brand
+2024-12-03,Amazon,696.81,Amazon - Performance
+2024-12-03,eBay,227.17,eBay - Performance
+2024-12-04,Website,972.8,Website - Performance
+2024-12-04,Mobile app,439.03,Mobile app - Brand
+2024-12-04,Amazon,1068.87,Amazon - Performance
+2024-12-04,eBay,241.3,eBay - Brand
+2024-12-05,Website,679.56,Website - Performance
+2024-12-05,Mobile app,684.99,Mobile app - Brand
+2024-12-05,Amazon,445.68,Amazon - Brand
+2024-12-05,eBay,291.74,eBay - Brand
+2024-12-06,Website,1038.71,Website - Performance
+2024-12-06,Mobile app,805.8,Mobile app - Brand
+2024-12-06,Amazon,802.64,Amazon - Brand
+2024-12-06,eBay,378.08,eBay - Brand
+2024-12-07,Website,688.59,Website - Performance
+2024-12-07,Mobile app,770.2,Mobile app - Performance
+2024-12-07,Amazon,558.63,Amazon - Brand
+2024-12-07,eBay,291.18,eBay - Brand
+2024-12-08,Website,883.82,Website - Performance
+2024-12-08,Mobile app,626.94,Mobile app - Brand
+2024-12-08,Amazon,905.5,Amazon - Performance
+2024-12-08,eBay,394.21,eBay - Brand
+2024-12-09,Website,1365.49,Website - Performance
+2024-12-09,Mobile app,719.99,Mobile app - Performance
+2024-12-09,Amazon,708.1,Amazon - Brand
+2024-12-09,eBay,389.52,eBay - Performance
+2024-12-10,Website,1298.18,Website - Brand
+2024-12-10,Mobile app,458.73,Mobile app - Brand
+2024-12-10,Amazon,750.78,Amazon - Brand
+2024-12-10,eBay,313.36,eBay - Brand
+2024-12-11,Website,736.32,Website - Brand
+2024-12-11,Mobile app,536.88,Mobile app - Brand
+2024-12-11,Amazon,842.09,Amazon - Performance
+2024-12-11,eBay,229.69,eBay - Brand
+2024-12-12,Website,707.38,Website - Brand
+2024-12-12,Mobile app,586.62,Mobile app - Performance
+2024-12-12,Amazon,430.29,Amazon - Brand
+2024-12-12,eBay,367.46,eBay - Brand
+2024-12-13,Website,1484.53,Website - Performance
+2024-12-13,Mobile app,496.02,Mobile app - Brand
+2024-12-13,Amazon,687.01,Amazon - Performance
+2024-12-13,eBay,367.43,eBay - Performance
+2024-12-14,Website,911.29,Website - Brand
+2024-12-14,Mobile app,666.09,Mobile app - Brand
+2024-12-14,Amazon,584.34,Amazon - Performance
+2024-12-14,eBay,447.28,eBay - Brand
+2024-12-15,Website,1228.24,Website - Performance
+2024-12-15,Mobile app,751.91,Mobile app - Performance
+2024-12-15,Amazon,519.18,Amazon - Brand
+2024-12-15,eBay,480.14,eBay - Brand
+2024-12-16,Website,1210.74,Website - Brand
+2024-12-16,Mobile app,592.94,Mobile app - Performance
+2024-12-16,Amazon,1062.14,Amazon - Brand
+2024-12-16,eBay,516.12,eBay - Brand
+2024-12-17,Website,1200.58,Website - Performance
+2024-12-17,Mobile app,625.47,Mobile app - Brand
+2024-12-17,Amazon,608.86,Amazon - Brand
+2024-12-17,eBay,548.31,eBay - Brand
+2024-12-18,Website,772.23,Website - Performance
+2024-12-18,Mobile app,600.15,Mobile app - Brand
+2024-12-18,Amazon,596.79,Amazon - Performance
+2024-12-18,eBay,296.35,eBay - Brand
+2024-12-19,Website,1022.92,Website - Brand
+2024-12-19,Mobile app,720.8,Mobile app - Performance
+2024-12-19,Amazon,707.86,Amazon - Brand
+2024-12-19,eBay,423.22,eBay - Performance
+2024-12-20,Website,1526.54,Website - Brand
+2024-12-20,Mobile app,474.44,Mobile app - Performance
+2024-12-20,Amazon,867.58,Amazon - Brand
+2024-12-20,eBay,393.51,eBay - Brand
+2024-12-21,Website,1018.55,Website - Performance
+2024-12-21,Mobile app,581.7,Mobile app - Brand
+2024-12-21,Amazon,705.9,Amazon - Brand
+2024-12-21,eBay,561.77,eBay - Performance
+2024-12-22,Website,460.46,Website - Performance
+2024-12-22,Mobile app,600.25,Mobile app - Brand
+2024-12-22,Amazon,626.29,Amazon - Brand
+2024-12-22,eBay,609.74,eBay - Performance
+2024-12-23,Website,991.23,Website - Brand
+2024-12-23,Mobile app,699.06,Mobile app - Brand
+2024-12-23,Amazon,743.18,Amazon - Performance
+2024-12-23,eBay,344.23,eBay - Brand
+2024-12-24,Website,1001.34,Website - Brand
+2024-12-24,Mobile app,786.1,Mobile app - Performance
+2024-12-24,Amazon,615.25,Amazon - Performance
+2024-12-24,eBay,238.87,eBay - Brand
+2024-12-25,Website,714.47,Website - Performance
+2024-12-25,Mobile app,620.69,Mobile app - Performance
+2024-12-25,Amazon,932.38,Amazon - Performance
+2024-12-25,eBay,392.01,eBay - Brand
+2024-12-26,Website,1071.54,Website - Performance
+2024-12-26,Mobile app,628.61,Mobile app - Brand
+2024-12-26,Amazon,715.77,Amazon - Brand
+2024-12-26,eBay,427.05,eBay - Performance
+2024-12-27,Website,1039.74,Website - Brand
+2024-12-27,Mobile app,570.64,Mobile app - Brand
+2024-12-27,Amazon,939.69,Amazon - Performance
+2024-12-27,eBay,342.7,eBay - Brand
+2024-12-28,Website,860.43,Website - Performance
+2024-12-28,Mobile app,616.09,Mobile app - Brand
+2024-12-28,Amazon,514.83,Amazon - Brand
+2024-12-28,eBay,329.81,eBay - Performance
+2024-12-29,Website,1110.1,Website - Brand
+2024-12-29,Mobile app,591.05,Mobile app - Performance
+2024-12-29,Amazon,573.43,Amazon - Performance
+2024-12-29,eBay,435.4,eBay - Performance
+2024-12-30,Website,1175.81,Website - Performance
+2024-12-30,Mobile app,831.24,Mobile app - Brand
+2024-12-30,Amazon,854.83,Amazon - Performance
+2024-12-30,eBay,414.98,eBay - Performance
+2024-12-31,Website,1250.59,Website - Brand
+2024-12-31,Mobile app,540.2,Mobile app - Brand
+2024-12-31,Amazon,764.96,Amazon - Performance
+2024-12-31,eBay,468.99,eBay - Performance
+2025-01-01,Website,245.43,Website - Brand
+2025-01-01,Mobile app,271.73,Mobile app - Performance
+2025-01-01,Amazon,693.88,Amazon - Brand
+2025-01-01,eBay,78.73,eBay - Brand
+2025-01-02,Website,245.75,Website - Performance
+2025-01-02,Mobile app,495.72,Mobile app - Performance
+2025-01-02,Amazon,457.55,Amazon - Brand
+2025-01-02,eBay,162.47,eBay - Performance
+2025-01-03,Website,411.19,Website - Performance
+2025-01-03,Mobile app,465.3,Mobile app - Performance
+2025-01-03,Amazon,618.09,Amazon - Performance
+2025-01-03,eBay,169.36,eBay - Performance
+2025-01-04,Website,744.92,Website - Performance
+2025-01-04,Mobile app,362.03,Mobile app - Brand
+2025-01-04,Amazon,539.48,Amazon - Brand
+2025-01-04,eBay,129.93,eBay - Performance
+2025-01-05,Website,429.18,Website - Brand
+2025-01-05,Mobile app,160.81,Mobile app - Performance
+2025-01-05,Amazon,461.99,Amazon - Brand
+2025-01-05,eBay,250.56,eBay - Brand
+2025-01-06,Website,794.44,Website - Brand
+2025-01-06,Mobile app,489.62,Mobile app - Brand
+2025-01-06,Amazon,322.23,Amazon - Performance
+2025-01-06,eBay,285.17,eBay - Performance
+2025-01-07,Website,507.25,Website - Performance
+2025-01-07,Mobile app,452.62,Mobile app - Brand
+2025-01-07,Amazon,179.49,Amazon - Brand
+2025-01-07,eBay,435.95,eBay - Brand
+2025-01-08,Website,85.13,Website - Brand
+2025-01-08,Mobile app,471.22,Mobile app - Brand
+2025-01-08,Amazon,405.6,Amazon - Performance
+2025-01-08,eBay,234.2,eBay - Performance
+2025-01-09,Website,409.83,Website - Performance
+2025-01-09,Mobile app,295.34,Mobile app - Performance
+2025-01-09,Amazon,330.59,Amazon - Performance
+2025-01-09,eBay,355.72,eBay - Performance
+2025-01-10,Website,759.4,Website - Performance
+2025-01-10,Mobile app,422.32,Mobile app - Brand
+2025-01-10,Amazon,109.7,Amazon - Performance
+2025-01-10,eBay,169.14,eBay - Performance
+2025-01-11,Website,897.62,Website - Brand
+2025-01-11,Mobile app,491.62,Mobile app - Brand
+2025-01-11,Amazon,357.06,Amazon - Performance
+2025-01-11,eBay,234.15,eBay - Performance
+2025-01-12,Website,518.67,Website - Brand
+2025-01-12,Mobile app,229.68,Mobile app - Brand
+2025-01-12,Amazon,348.07,Amazon - Brand
+2025-01-12,eBay,387.3,eBay - Performance
+2025-01-13,Website,460.7,Website - Brand
+2025-01-13,Mobile app,299.13,Mobile app - Performance
+2025-01-13,Amazon,650.59,Amazon - Brand
+2025-01-13,eBay,132.2,eBay - Brand
+2025-01-14,Website,854.5,Website - Brand
+2025-01-14,Mobile app,244.21,Mobile app - Brand
+2025-01-14,Amazon,506.67,Amazon - Brand
+2025-01-14,eBay,287.72,eBay - Brand
+2025-01-15,Website,613.15,Website - Performance
+2025-01-15,Mobile app,533.93,Mobile app - Brand
+2025-01-15,Amazon,532.32,Amazon - Performance
+2025-01-15,eBay,424.36,eBay - Performance
+2025-01-16,Website,170.73,Website - Performance
+2025-01-16,Mobile app,134.04,Mobile app - Brand
+2025-01-16,Amazon,229.65,Amazon - Brand
+2025-01-16,eBay,121.28,eBay - Performance
+2025-01-17,Website,704.76,Website - Brand
+2025-01-17,Mobile app,126.08,Mobile app - Brand
+2025-01-17,Amazon,204.03,Amazon - Brand
+2025-01-17,eBay,0.0,eBay - Brand
+2025-01-18,Website,653.64,Website - Performance
+2025-01-18,Mobile app,82.42,Mobile app - Brand
+2025-01-18,Amazon,281.26,Amazon - Brand
+2025-01-18,eBay,192.45,eBay - Performance
+2025-01-19,Website,682.53,Website - Brand
+2025-01-19,Mobile app,520.88,Mobile app - Performance
+2025-01-19,Amazon,420.77,Amazon - Brand
+2025-01-19,eBay,162.77,eBay - Performance
+2025-01-20,Website,435.62,Website - Performance
+2025-01-20,Mobile app,114.76,Mobile app - Brand
+2025-01-20,Amazon,294.91,Amazon - Brand
+2025-01-20,eBay,133.0,eBay - Brand
+2025-01-21,Website,125.78,Website - Brand
+2025-01-21,Mobile app,197.91,Mobile app - Performance
+2025-01-21,Amazon,375.21,Amazon - Brand
+2025-01-21,eBay,380.15,eBay - Performance
+2025-01-22,Website,733.11,Website - Performance
+2025-01-22,Mobile app,319.97,Mobile app - Brand
+2025-01-22,Amazon,264.25,Amazon - Brand
+2025-01-22,eBay,336.42,eBay - Brand
+2025-01-23,Website,592.45,Website - Brand
+2025-01-23,Mobile app,518.99,Mobile app - Brand
+2025-01-23,Amazon,474.98,Amazon - Performance
+2025-01-23,eBay,233.98,eBay - Brand
+2025-01-24,Website,423.41,Website - Brand
+2025-01-24,Mobile app,277.1,Mobile app - Brand
+2025-01-24,Amazon,312.87,Amazon - Performance
+2025-01-24,eBay,214.06,eBay - Performance
+2025-01-25,Website,688.79,Website - Brand
+2025-01-25,Mobile app,264.65,Mobile app - Performance
+2025-01-25,Amazon,211.66,Amazon - Performance
+2025-01-25,eBay,210.3,eBay - Brand
+2025-01-26,Website,326.59,Website - Brand
+2025-01-26,Mobile app,459.56,Mobile app - Brand
+2025-01-26,Amazon,410.74,Amazon - Brand
+2025-01-26,eBay,95.68,eBay - Performance
+2025-01-27,Website,309.41,Website - Performance
+2025-01-27,Mobile app,92.2,Mobile app - Performance
+2025-01-27,Amazon,327.69,Amazon - Brand
+2025-01-27,eBay,211.16,eBay - Performance
+2025-01-28,Website,313.52,Website - Performance
+2025-01-28,Mobile app,225.25,Mobile app - Performance
+2025-01-28,Amazon,465.47,Amazon - Brand
+2025-01-28,eBay,191.08,eBay - Performance
+2025-01-29,Website,393.57,Website - Performance
+2025-01-29,Mobile app,43.33,Mobile app - Performance
+2025-01-29,Amazon,766.28,Amazon - Brand
+2025-01-29,eBay,237.88,eBay - Brand
+2025-01-30,Website,715.06,Website - Performance
+2025-01-30,Mobile app,376.28,Mobile app - Brand
+2025-01-30,Amazon,759.2,Amazon - Performance
+2025-01-30,eBay,206.55,eBay - Performance
+2025-01-31,Website,503.48,Website - Performance
+2025-01-31,Mobile app,551.14,Mobile app - Performance
+2025-01-31,Amazon,334.07,Amazon - Performance
+2025-01-31,eBay,345.72,eBay - Performance
+2025-02-01,Website,1449.84,Website - Performance
+2025-02-01,Mobile app,436.67,Mobile app - Performance
+2025-02-01,Amazon,516.49,Amazon - Performance
+2025-02-01,eBay,446.32,eBay - Performance
+2025-02-02,Website,578.72,Website - Performance
+2025-02-02,Mobile app,437.72,Mobile app - Brand
+2025-02-02,Amazon,580.72,Amazon - Performance
+2025-02-02,eBay,164.46,eBay - Performance
+2025-02-03,Website,800.27,Website - Performance
+2025-02-03,Mobile app,322.78,Mobile app - Performance
+2025-02-03,Amazon,574.81,Amazon - Brand
+2025-02-03,eBay,226.5,eBay - Performance
+2025-02-04,Website,859.31,Website - Performance
+2025-02-04,Mobile app,349.13,Mobile app - Performance
+2025-02-04,Amazon,806.26,Amazon - Performance
+2025-02-04,eBay,313.34,eBay - Performance
+2025-02-05,Website,1219.99,Website - Performance
+2025-02-05,Mobile app,605.83,Mobile app - Brand
+2025-02-05,Amazon,683.92,Amazon - Brand
+2025-02-05,eBay,287.91,eBay - Brand
+2025-02-06,Website,736.03,Website - Brand
+2025-02-06,Mobile app,632.59,Mobile app - Performance
+2025-02-06,Amazon,450.23,Amazon - Performance
+2025-02-06,eBay,246.38,eBay - Brand
+2025-02-07,Website,586.42,Website - Brand
+2025-02-07,Mobile app,387.67,Mobile app - Brand
+2025-02-07,Amazon,526.84,Amazon - Performance
+2025-02-07,eBay,306.38,eBay - Performance
+2025-02-08,Website,383.68,Website - Performance
+2025-02-08,Mobile app,613.88,Mobile app - Brand
+2025-02-08,Amazon,571.15,Amazon - Brand
+2025-02-08,eBay,452.04,eBay - Brand
+2025-02-09,Website,497.8,Website - Performance
+2025-02-09,Mobile app,551.06,Mobile app - Performance
+2025-02-09,Amazon,316.22,Amazon - Performance
+2025-02-09,eBay,366.47,eBay - Brand
+2025-02-10,Website,1018.71,Website - Performance
+2025-02-10,Mobile app,489.63,Mobile app - Brand
+2025-02-10,Amazon,602.73,Amazon - Performance
+2025-02-10,eBay,331.2,eBay - Performance
+2025-02-11,Website,399.11,Website - Performance
+2025-02-11,Mobile app,360.63,Mobile app - Performance
+2025-02-11,Amazon,424.03,Amazon - Performance
+2025-02-11,eBay,318.82,eBay - Brand
+2025-02-12,Website,535.56,Website - Brand
+2025-02-12,Mobile app,532.88,Mobile app - Performance
+2025-02-12,Amazon,917.03,Amazon - Brand
+2025-02-12,eBay,190.19,eBay - Brand
+2025-02-13,Website,975.9,Website - Performance
+2025-02-13,Mobile app,573.55,Mobile app - Brand
+2025-02-13,Amazon,731.09,Amazon - Brand
+2025-02-13,eBay,310.31,eBay - Performance
+2025-02-14,Website,535.0,Website - Performance
+2025-02-14,Mobile app,426.87,Mobile app - Performance
+2025-02-14,Amazon,436.32,Amazon - Brand
+2025-02-14,eBay,179.59,eBay - Performance
+2025-02-15,Website,839.86,Website - Brand
+2025-02-15,Mobile app,659.45,Mobile app - Brand
+2025-02-15,Amazon,462.78,Amazon - Brand
+2025-02-15,eBay,183.2,eBay - Performance
+2025-02-16,Website,629.15,Website - Performance
+2025-02-16,Mobile app,448.33,Mobile app - Brand
+2025-02-16,Amazon,363.9,Amazon - Brand
+2025-02-16,eBay,103.74,eBay - Brand
+2025-02-17,Website,1017.48,Website - Performance
+2025-02-17,Mobile app,697.15,Mobile app - Performance
+2025-02-17,Amazon,401.7,Amazon - Performance
+2025-02-17,eBay,335.22,eBay - Performance
+2025-02-18,Website,1132.48,Website - Brand
+2025-02-18,Mobile app,602.46,Mobile app - Performance
+2025-02-18,Amazon,817.39,Amazon - Brand
+2025-02-18,eBay,226.8,eBay - Performance
+2025-02-19,Website,935.83,Website - Performance
+2025-02-19,Mobile app,798.08,Mobile app - Performance
+2025-02-19,Amazon,572.71,Amazon - Brand
+2025-02-19,eBay,258.92,eBay - Performance
+2025-02-20,Website,668.67,Website - Brand
+2025-02-20,Mobile app,262.19,Mobile app - Brand
+2025-02-20,Amazon,997.0,Amazon - Performance
+2025-02-20,eBay,269.59,eBay - Performance
+2025-02-21,Website,960.32,Website - Brand
+2025-02-21,Mobile app,558.63,Mobile app - Performance
+2025-02-21,Amazon,579.23,Amazon - Performance
+2025-02-21,eBay,419.28,eBay - Brand
+2025-02-22,Website,1109.94,Website - Brand
+2025-02-22,Mobile app,385.16,Mobile app - Performance
+2025-02-22,Amazon,794.17,Amazon - Performance
+2025-02-22,eBay,288.32,eBay - Brand
+2025-02-23,Website,640.49,Website - Performance
+2025-02-23,Mobile app,516.99,Mobile app - Performance
+2025-02-23,Amazon,803.79,Amazon - Performance
+2025-02-23,eBay,185.27,eBay - Brand
+2025-02-24,Website,637.63,Website - Brand
+2025-02-24,Mobile app,437.68,Mobile app - Performance
+2025-02-24,Amazon,482.58,Amazon - Brand
+2025-02-24,eBay,257.37,eBay - Brand
+2025-02-25,Website,934.26,Website - Performance
+2025-02-25,Mobile app,329.12,Mobile app - Performance
+2025-02-25,Amazon,682.35,Amazon - Brand
+2025-02-25,eBay,330.8,eBay - Brand
+2025-02-26,Website,744.93,Website - Brand
+2025-02-26,Mobile app,575.46,Mobile app - Brand
+2025-02-26,Amazon,678.62,Amazon - Performance
+2025-02-26,eBay,287.21,eBay - Brand
+2025-02-27,Website,412.11,Website - Performance
+2025-02-27,Mobile app,567.05,Mobile app - Brand
+2025-02-27,Amazon,400.15,Amazon - Brand
+2025-02-27,eBay,50.14,eBay - Brand
+2025-02-28,Website,588.29,Website - Performance
+2025-02-28,Mobile app,653.77,Mobile app - Brand
+2025-02-28,Amazon,923.99,Amazon - Performance
+2025-02-28,eBay,205.45,eBay - Performance
+2025-03-01,Website,1041.02,Website - Performance
+2025-03-01,Mobile app,464.83,Mobile app - Brand
+2025-03-01,Amazon,454.51,Amazon - Brand
+2025-03-01,eBay,261.53,eBay - Performance
+2025-03-02,Website,700.43,Website - Brand
+2025-03-02,Mobile app,808.95,Mobile app - Brand
+2025-03-02,Amazon,652.58,Amazon - Performance
+2025-03-02,eBay,365.05,eBay - Performance
+2025-03-03,Website,1213.6,Website - Brand
+2025-03-03,Mobile app,509.57,Mobile app - Performance
+2025-03-03,Amazon,807.29,Amazon - Brand
+2025-03-03,eBay,232.87,eBay - Performance
+2025-03-04,Website,1113.63,Website - Performance
+2025-03-04,Mobile app,619.1,Mobile app - Brand
+2025-03-04,Amazon,764.88,Amazon - Performance
+2025-03-04,eBay,247.26,eBay - Brand
+2025-03-05,Website,894.45,Website - Brand
+2025-03-05,Mobile app,401.2,Mobile app - Performance
+2025-03-05,Amazon,607.98,Amazon - Brand
+2025-03-05,eBay,299.13,eBay - Brand
+2025-03-06,Website,1079.55,Website - Performance
+2025-03-06,Mobile app,241.23,Mobile app - Brand
+2025-03-06,Amazon,624.53,Amazon - Performance
+2025-03-06,eBay,262.28,eBay - Performance
+2025-03-07,Website,816.99,Website - Performance
+2025-03-07,Mobile app,385.1,Mobile app - Brand
+2025-03-07,Amazon,458.09,Amazon - Brand
+2025-03-07,eBay,393.46,eBay - Brand
+2025-03-08,Website,947.66,Website - Brand
+2025-03-08,Mobile app,583.66,Mobile app - Brand
+2025-03-08,Amazon,376.65,Amazon - Brand
+2025-03-08,eBay,142.11,eBay - Performance
+2025-03-09,Website,990.25,Website - Performance
+2025-03-09,Mobile app,492.75,Mobile app - Brand
+2025-03-09,Amazon,211.39,Amazon - Brand
+2025-03-09,eBay,323.37,eBay - Performance
+2025-03-10,Website,1067.4,Website - Brand
+2025-03-10,Mobile app,232.59,Mobile app - Performance
+2025-03-10,Amazon,877.93,Amazon - Performance
+2025-03-10,eBay,474.8,eBay - Brand
+2025-03-11,Website,1285.52,Website - Brand
+2025-03-11,Mobile app,488.79,Mobile app - Brand
+2025-03-11,Amazon,521.78,Amazon - Performance
+2025-03-11,eBay,291.82,eBay - Brand
+2025-03-12,Website,656.19,Website - Brand
+2025-03-12,Mobile app,516.6,Mobile app - Performance
+2025-03-12,Amazon,417.61,Amazon - Performance
+2025-03-12,eBay,354.95,eBay - Brand
+2025-03-13,Website,648.88,Website - Performance
+2025-03-13,Mobile app,375.84,Mobile app - Performance
+2025-03-13,Amazon,669.76,Amazon - Brand
+2025-03-13,eBay,114.24,eBay - Brand
+2025-03-14,Website,1301.51,Website - Brand
+2025-03-14,Mobile app,476.49,Mobile app - Brand
+2025-03-14,Amazon,643.98,Amazon - Performance
+2025-03-14,eBay,168.99,eBay - Performance
+2025-03-15,Website,719.85,Website - Performance
+2025-03-15,Mobile app,570.38,Mobile app - Performance
+2025-03-15,Amazon,643.8,Amazon - Brand
+2025-03-15,eBay,244.52,eBay - Performance
+2025-03-16,Website,639.03,Website - Performance
+2025-03-16,Mobile app,370.57,Mobile app - Performance
+2025-03-16,Amazon,793.1,Amazon - Brand
+2025-03-16,eBay,480.24,eBay - Brand
+2025-03-17,Website,835.73,Website - Performance
+2025-03-17,Mobile app,621.93,Mobile app - Brand
+2025-03-17,Amazon,774.56,Amazon - Brand
+2025-03-17,eBay,316.08,eBay - Performance
+2025-03-18,Website,705.66,Website - Brand
+2025-03-18,Mobile app,591.16,Mobile app - Performance
+2025-03-18,Amazon,1059.92,Amazon - Brand
+2025-03-18,eBay,210.67,eBay - Performance
+2025-03-19,Website,465.91,Website - Brand
+2025-03-19,Mobile app,630.22,Mobile app - Brand
+2025-03-19,Amazon,328.4,Amazon - Brand
+2025-03-19,eBay,269.27,eBay - Performance
+2025-03-20,Website,669.26,Website - Brand
+2025-03-20,Mobile app,456.62,Mobile app - Brand
+2025-03-20,Amazon,708.03,Amazon - Brand
+2025-03-20,eBay,352.15,eBay - Performance
+2025-03-21,Website,753.72,Website - Brand
+2025-03-21,Mobile app,258.65,Mobile app - Performance
+2025-03-21,Amazon,442.87,Amazon - Brand
+2025-03-21,eBay,315.55,eBay - Brand
+2025-03-22,Website,1057.79,Website - Performance
+2025-03-22,Mobile app,583.17,Mobile app - Performance
+2025-03-22,Amazon,503.69,Amazon - Performance
+2025-03-22,eBay,327.63,eBay - Performance
+2025-03-23,Website,364.79,Website - Performance
+2025-03-23,Mobile app,434.08,Mobile app - Performance
+2025-03-23,Amazon,615.89,Amazon - Brand
+2025-03-23,eBay,324.84,eBay - Performance
+2025-03-24,Website,938.75,Website - Performance
+2025-03-24,Mobile app,629.51,Mobile app - Performance
+2025-03-24,Amazon,453.02,Amazon - Brand
+2025-03-24,eBay,114.25,eBay - Brand
+2025-03-25,Website,1345.31,Website - Brand
+2025-03-25,Mobile app,338.37,Mobile app - Brand
+2025-03-25,Amazon,693.86,Amazon - Performance
+2025-03-25,eBay,253.23,eBay - Brand
+2025-03-26,Website,1194.18,Website - Performance
+2025-03-26,Mobile app,294.51,Mobile app - Performance
+2025-03-26,Amazon,455.01,Amazon - Brand
+2025-03-26,eBay,242.49,eBay - Brand
+2025-03-27,Website,521.35,Website - Brand
+2025-03-27,Mobile app,455.75,Mobile app - Performance
+2025-03-27,Amazon,761.67,Amazon - Performance
+2025-03-27,eBay,262.1,eBay - Brand
+2025-03-28,Website,342.03,Website - Brand
+2025-03-28,Mobile app,536.32,Mobile app - Brand
+2025-03-28,Amazon,464.97,Amazon - Performance
+2025-03-28,eBay,396.25,eBay - Brand
+2025-03-29,Website,846.1,Website - Brand
+2025-03-29,Mobile app,495.35,Mobile app - Brand
+2025-03-29,Amazon,552.85,Amazon - Brand
+2025-03-29,eBay,312.72,eBay - Brand
+2025-03-30,Website,1227.47,Website - Brand
+2025-03-30,Mobile app,520.91,Mobile app - Performance
+2025-03-30,Amazon,302.69,Amazon - Brand
+2025-03-30,eBay,342.32,eBay - Performance
+2025-03-31,Website,780.2,Website - Brand
+2025-03-31,Mobile app,539.54,Mobile app - Brand
+2025-03-31,Amazon,730.0,Amazon - Performance
+2025-03-31,eBay,376.6,eBay - Brand
+2025-04-01,Website,364.56,Website - Brand
+2025-04-01,Mobile app,701.09,Mobile app - Performance
+2025-04-01,Amazon,432.46,Amazon - Performance
+2025-04-01,eBay,356.4,eBay - Brand
+2025-04-02,Website,849.15,Website - Brand
+2025-04-02,Mobile app,302.51,Mobile app - Performance
+2025-04-02,Amazon,796.71,Amazon - Brand
+2025-04-02,eBay,380.77,eBay - Performance
+2025-04-03,Website,668.5,Website - Brand
+2025-04-03,Mobile app,686.5,Mobile app - Brand
+2025-04-03,Amazon,854.38,Amazon - Brand
+2025-04-03,eBay,197.17,eBay - Brand
+2025-04-04,Website,510.93,Website - Brand
+2025-04-04,Mobile app,273.62,Mobile app - Brand
+2025-04-04,Amazon,448.06,Amazon - Brand
+2025-04-04,eBay,127.18,eBay - Brand
+2025-04-05,Website,812.46,Website - Performance
+2025-04-05,Mobile app,270.47,Mobile app - Brand
+2025-04-05,Amazon,418.03,Amazon - Brand
+2025-04-05,eBay,204.32,eBay - Performance
+2025-04-06,Website,884.33,Website - Brand
+2025-04-06,Mobile app,467.69,Mobile app - Performance
+2025-04-06,Amazon,662.77,Amazon - Brand
+2025-04-06,eBay,429.34,eBay - Performance
+2025-04-07,Website,964.86,Website - Brand
+2025-04-07,Mobile app,452.02,Mobile app - Performance
+2025-04-07,Amazon,690.32,Amazon - Performance
+2025-04-07,eBay,207.52,eBay - Brand
+2025-04-08,Website,948.73,Website - Brand
+2025-04-08,Mobile app,626.95,Mobile app - Performance
+2025-04-08,Amazon,478.67,Amazon - Brand
+2025-04-08,eBay,256.55,eBay - Brand
+2025-04-09,Website,873.6,Website - Performance
+2025-04-09,Mobile app,649.19,Mobile app - Performance
+2025-04-09,Amazon,1087.22,Amazon - Performance
+2025-04-09,eBay,408.38,eBay - Brand
+2025-04-10,Website,507.94,Website - Performance
+2025-04-10,Mobile app,497.35,Mobile app - Brand
+2025-04-10,Amazon,419.25,Amazon - Performance
+2025-04-10,eBay,300.8,eBay - Brand
+2025-04-11,Website,359.72,Website - Brand
+2025-04-11,Mobile app,276.66,Mobile app - Brand
+2025-04-11,Amazon,724.42,Amazon - Performance
+2025-04-11,eBay,259.9,eBay - Performance
+2025-04-12,Website,767.05,Website - Performance
+2025-04-12,Mobile app,554.28,Mobile app - Performance
+2025-04-12,Amazon,1011.71,Amazon - Brand
+2025-04-12,eBay,371.63,eBay - Performance
+2025-04-13,Website,1061.21,Website - Brand
+2025-04-13,Mobile app,870.96,Mobile app - Performance
+2025-04-13,Amazon,605.19,Amazon - Brand
+2025-04-13,eBay,308.8,eBay - Brand
+2025-04-14,Website,444.97,Website - Performance
+2025-04-14,Mobile app,241.56,Mobile app - Brand
+2025-04-14,Amazon,453.37,Amazon - Brand
+2025-04-14,eBay,173.06,eBay - Performance
+2025-04-15,Website,952.36,Website - Brand
+2025-04-15,Mobile app,486.1,Mobile app - Brand
+2025-04-15,Amazon,676.86,Amazon - Brand
+2025-04-15,eBay,186.56,eBay - Performance
+2025-04-16,Website,1055.93,Website - Brand
+2025-04-16,Mobile app,604.35,Mobile app - Performance
+2025-04-16,Amazon,782.61,Amazon - Brand
+2025-04-16,eBay,355.53,eBay - Brand
+2025-04-17,Website,240.28,Website - Brand
+2025-04-17,Mobile app,426.92,Mobile app - Brand
+2025-04-17,Amazon,461.28,Amazon - Performance
+2025-04-17,eBay,239.61,eBay - Performance
+2025-04-18,Website,815.91,Website - Performance
+2025-04-18,Mobile app,775.28,Mobile app - Brand
+2025-04-18,Amazon,799.68,Amazon - Performance
+2025-04-18,eBay,276.09,eBay - Performance
+2025-04-19,Website,345.8,Website - Performance
+2025-04-19,Mobile app,345.88,Mobile app - Brand
+2025-04-19,Amazon,369.24,Amazon - Brand
+2025-04-19,eBay,330.56,eBay - Performance
+2025-04-20,Website,814.79,Website - Performance
+2025-04-20,Mobile app,599.81,Mobile app - Brand
+2025-04-20,Amazon,425.76,Amazon - Performance
+2025-04-20,eBay,313.84,eBay - Brand
+2025-04-21,Website,914.85,Website - Performance
+2025-04-21,Mobile app,285.35,Mobile app - Brand
+2025-04-21,Amazon,971.83,Amazon - Performance
+2025-04-21,eBay,219.46,eBay - Performance
+2025-04-22,Website,523.55,Website - Brand
+2025-04-22,Mobile app,404.28,Mobile app - Performance
+2025-04-22,Amazon,596.44,Amazon - Brand
+2025-04-22,eBay,488.2,eBay - Brand
+2025-04-23,Website,878.13,Website - Brand
+2025-04-23,Mobile app,657.14,Mobile app - Performance
+2025-04-23,Amazon,865.28,Amazon - Performance
+2025-04-23,eBay,251.12,eBay - Brand
+2025-04-24,Website,435.51,Website - Performance
+2025-04-24,Mobile app,327.46,Mobile app - Performance
+2025-04-24,Amazon,682.29,Amazon - Performance
+2025-04-24,eBay,167.42,eBay - Brand
+2025-04-25,Website,374.23,Website - Brand
+2025-04-25,Mobile app,541.62,Mobile app - Performance
+2025-04-25,Amazon,493.76,Amazon - Performance
+2025-04-25,eBay,346.15,eBay - Brand
+2025-04-26,Website,622.61,Website - Brand
+2025-04-26,Mobile app,351.83,Mobile app - Brand
+2025-04-26,Amazon,659.11,Amazon - Brand
+2025-04-26,eBay,304.91,eBay - Performance
+2025-04-27,Website,1354.09,Website - Performance
+2025-04-27,Mobile app,200.91,Mobile app - Brand
+2025-04-27,Amazon,697.18,Amazon - Brand
+2025-04-27,eBay,324.07,eBay - Performance
+2025-04-28,Website,1113.85,Website - Brand
+2025-04-28,Mobile app,431.94,Mobile app - Brand
+2025-04-28,Amazon,894.66,Amazon - Performance
+2025-04-28,eBay,372.94,eBay - Performance
+2025-04-29,Website,524.49,Website - Brand
+2025-04-29,Mobile app,688.62,Mobile app - Performance
+2025-04-29,Amazon,502.81,Amazon - Brand
+2025-04-29,eBay,196.5,eBay - Brand
+2025-04-30,Website,492.47,Website - Performance
+2025-04-30,Mobile app,390.6,Mobile app - Brand
+2025-04-30,Amazon,489.54,Amazon - Brand
+2025-04-30,eBay,329.25,eBay - Performance
+2025-05-01,Website,623.29,Website - Brand
+2025-05-01,Mobile app,526.4,Mobile app - Brand
+2025-05-01,Amazon,634.59,Amazon - Performance
+2025-05-01,eBay,274.52,eBay - Performance
+2025-05-02,Website,885.1,Website - Performance
+2025-05-02,Mobile app,592.33,Mobile app - Brand
+2025-05-02,Amazon,515.01,Amazon - Brand
+2025-05-02,eBay,311.64,eBay - Performance
+2025-05-03,Website,1229.26,Website - Performance
+2025-05-03,Mobile app,623.55,Mobile app - Brand
+2025-05-03,Amazon,514.52,Amazon - Brand
+2025-05-03,eBay,555.55,eBay - Brand
+2025-05-04,Website,829.95,Website - Performance
+2025-05-04,Mobile app,627.67,Mobile app - Brand
+2025-05-04,Amazon,876.07,Amazon - Brand
+2025-05-04,eBay,196.25,eBay - Performance
+2025-05-05,Website,589.74,Website - Performance
+2025-05-05,Mobile app,855.3,Mobile app - Brand
+2025-05-05,Amazon,713.19,Amazon - Performance
+2025-05-05,eBay,294.9,eBay - Performance
+2025-05-06,Website,1328.04,Website - Brand
+2025-05-06,Mobile app,615.04,Mobile app - Brand
+2025-05-06,Amazon,520.18,Amazon - Performance
+2025-05-06,eBay,164.52,eBay - Performance
+2025-05-07,Website,870.97,Website - Performance
+2025-05-07,Mobile app,943.12,Mobile app - Brand
+2025-05-07,Amazon,486.07,Amazon - Performance
+2025-05-07,eBay,351.94,eBay - Brand
+2025-05-08,Website,349.11,Website - Performance
+2025-05-08,Mobile app,479.17,Mobile app - Performance
+2025-05-08,Amazon,695.44,Amazon - Brand
+2025-05-08,eBay,306.96,eBay - Performance
+2025-05-09,Website,1002.32,Website - Performance
+2025-05-09,Mobile app,490.74,Mobile app - Brand
+2025-05-09,Amazon,899.0,Amazon - Brand
+2025-05-09,eBay,336.57,eBay - Brand
+2025-05-10,Website,842.63,Website - Performance
+2025-05-10,Mobile app,724.07,Mobile app - Performance
+2025-05-10,Amazon,368.94,Amazon - Performance
+2025-05-10,eBay,476.46,eBay - Brand
+2025-05-11,Website,394.24,Website - Performance
+2025-05-11,Mobile app,707.8,Mobile app - Brand
+2025-05-11,Amazon,677.87,Amazon - Brand
+2025-05-11,eBay,349.1,eBay - Performance
+2025-05-12,Website,790.66,Website - Brand
+2025-05-12,Mobile app,515.96,Mobile app - Performance
+2025-05-12,Amazon,578.9,Amazon - Brand
+2025-05-12,eBay,201.69,eBay - Performance
+2025-05-13,Website,660.84,Website - Performance
+2025-05-13,Mobile app,445.19,Mobile app - Performance
+2025-05-13,Amazon,524.73,Amazon - Brand
+2025-05-13,eBay,264.18,eBay - Performance
+2025-05-14,Website,1138.31,Website - Performance
+2025-05-14,Mobile app,524.99,Mobile app - Brand
+2025-05-14,Amazon,248.26,Amazon - Brand
+2025-05-14,eBay,399.11,eBay - Performance
+2025-05-15,Website,1273.01,Website - Brand
+2025-05-15,Mobile app,551.7,Mobile app - Brand
+2025-05-15,Amazon,479.08,Amazon - Performance
+2025-05-15,eBay,225.07,eBay - Brand
+2025-05-16,Website,603.98,Website - Brand
+2025-05-16,Mobile app,512.17,Mobile app - Brand
+2025-05-16,Amazon,1063.83,Amazon - Brand
+2025-05-16,eBay,366.22,eBay - Brand
+2025-05-17,Website,1031.14,Website - Performance
+2025-05-17,Mobile app,549.21,Mobile app - Brand
+2025-05-17,Amazon,1037.83,Amazon - Performance
+2025-05-17,eBay,298.57,eBay - Brand
+2025-05-18,Website,929.33,Website - Performance
+2025-05-18,Mobile app,210.14,Mobile app - Brand
+2025-05-18,Amazon,547.96,Amazon - Performance
+2025-05-18,eBay,266.91,eBay - Brand
+2025-05-19,Website,779.69,Website - Performance
+2025-05-19,Mobile app,501.77,Mobile app - Brand
+2025-05-19,Amazon,630.07,Amazon - Performance
+2025-05-19,eBay,338.78,eBay - Performance
+2025-05-20,Website,333.06,Website - Brand
+2025-05-20,Mobile app,608.12,Mobile app - Brand
+2025-05-20,Amazon,297.05,Amazon - Performance
+2025-05-20,eBay,110.62,eBay - Performance
+2025-05-21,Website,892.34,Website - Brand
+2025-05-21,Mobile app,574.16,Mobile app - Brand
+2025-05-21,Amazon,408.04,Amazon - Brand
+2025-05-21,eBay,306.51,eBay - Performance
+2025-05-22,Website,771.66,Website - Brand
+2025-05-22,Mobile app,495.61,Mobile app - Performance
+2025-05-22,Amazon,363.38,Amazon - Performance
+2025-05-22,eBay,289.23,eBay - Performance
+2025-05-23,Website,803.55,Website - Brand
+2025-05-23,Mobile app,398.79,Mobile app - Performance
+2025-05-23,Amazon,651.77,Amazon - Performance
+2025-05-23,eBay,316.92,eBay - Performance
+2025-05-24,Website,1103.55,Website - Performance
+2025-05-24,Mobile app,483.91,Mobile app - Brand
+2025-05-24,Amazon,269.92,Amazon - Performance
+2025-05-24,eBay,358.48,eBay - Brand
+2025-05-25,Website,1044.09,Website - Performance
+2025-05-25,Mobile app,546.2,Mobile app - Performance
+2025-05-25,Amazon,377.89,Amazon - Brand
+2025-05-25,eBay,380.42,eBay - Performance
+2025-05-26,Website,570.88,Website - Brand
+2025-05-26,Mobile app,418.15,Mobile app - Brand
+2025-05-26,Amazon,388.71,Amazon - Performance
+2025-05-26,eBay,319.58,eBay - Performance
+2025-05-27,Website,607.69,Website - Brand
+2025-05-27,Mobile app,351.07,Mobile app - Brand
+2025-05-27,Amazon,844.04,Amazon - Brand
+2025-05-27,eBay,284.72,eBay - Brand
+2025-05-28,Website,960.53,Website - Brand
+2025-05-28,Mobile app,751.55,Mobile app - Brand
+2025-05-28,Amazon,702.14,Amazon - Brand
+2025-05-28,eBay,260.97,eBay - Brand
+2025-05-29,Website,492.35,Website - Brand
+2025-05-29,Mobile app,414.16,Mobile app - Performance
+2025-05-29,Amazon,261.09,Amazon - Performance
+2025-05-29,eBay,322.05,eBay - Performance
+2025-05-30,Website,1217.42,Website - Performance
+2025-05-30,Mobile app,621.4,Mobile app - Brand
+2025-05-30,Amazon,726.09,Amazon - Performance
+2025-05-30,eBay,396.55,eBay - Brand
+2025-05-31,Website,926.82,Website - Performance
+2025-05-31,Mobile app,675.34,Mobile app - Brand
+2025-05-31,Amazon,645.99,Amazon - Brand
+2025-05-31,eBay,269.54,eBay - Brand
+2025-06-01,Website,1293.29,Website - Brand
+2025-06-01,Mobile app,179.46,Mobile app - Brand
+2025-06-01,Amazon,511.88,Amazon - Brand
+2025-06-01,eBay,271.55,eBay - Brand
+2025-06-02,Website,449.41,Website - Performance
+2025-06-02,Mobile app,502.39,Mobile app - Brand
+2025-06-02,Amazon,926.25,Amazon - Performance
+2025-06-02,eBay,342.55,eBay - Performance
+2025-06-03,Website,969.23,Website - Performance
+2025-06-03,Mobile app,421.78,Mobile app - Brand
+2025-06-03,Amazon,577.21,Amazon - Brand
+2025-06-03,eBay,334.78,eBay - Brand
+2025-06-04,Website,1016.91,Website - Brand
+2025-06-04,Mobile app,340.32,Mobile app - Performance
+2025-06-04,Amazon,586.11,Amazon - Performance
+2025-06-04,eBay,210.63,eBay - Performance
+2025-06-05,Website,870.85,Website - Performance
+2025-06-05,Mobile app,588.53,Mobile app - Brand
+2025-06-05,Amazon,864.72,Amazon - Performance
+2025-06-05,eBay,342.23,eBay - Brand
+2025-06-06,Website,425.44,Website - Performance
+2025-06-06,Mobile app,695.33,Mobile app - Performance
+2025-06-06,Amazon,723.68,Amazon - Performance
+2025-06-06,eBay,456.02,eBay - Performance
+2025-06-07,Website,1038.19,Website - Performance
+2025-06-07,Mobile app,416.86,Mobile app - Brand
+2025-06-07,Amazon,448.5,Amazon - Brand
+2025-06-07,eBay,228.99,eBay - Brand
+2025-06-08,Website,1054.45,Website - Brand
+2025-06-08,Mobile app,280.55,Mobile app - Performance
+2025-06-08,Amazon,560.62,Amazon - Brand
+2025-06-08,eBay,56.61,eBay - Performance
+2025-06-09,Website,778.91,Website - Performance
+2025-06-09,Mobile app,553.04,Mobile app - Performance
+2025-06-09,Amazon,614.26,Amazon - Brand
+2025-06-09,eBay,320.82,eBay - Brand
+2025-06-10,Website,287.87,Website - Performance
+2025-06-10,Mobile app,675.17,Mobile app - Brand
+2025-06-10,Amazon,603.36,Amazon - Brand
+2025-06-10,eBay,296.49,eBay - Brand
+2025-06-11,Website,610.59,Website - Performance
+2025-06-11,Mobile app,498.03,Mobile app - Brand
+2025-06-11,Amazon,415.83,Amazon - Performance
+2025-06-11,eBay,288.59,eBay - Performance
+2025-06-12,Website,464.31,Website - Performance
+2025-06-12,Mobile app,465.05,Mobile app - Performance
+2025-06-12,Amazon,404.33,Amazon - Performance
+2025-06-12,eBay,301.55,eBay - Brand
+2025-06-13,Website,770.67,Website - Brand
+2025-06-13,Mobile app,556.19,Mobile app - Performance
+2025-06-13,Amazon,924.93,Amazon - Brand
+2025-06-13,eBay,140.59,eBay - Performance
+2025-06-14,Website,1160.73,Website - Performance
+2025-06-14,Mobile app,524.0,Mobile app - Performance
+2025-06-14,Amazon,652.39,Amazon - Performance
+2025-06-14,eBay,393.92,eBay - Brand
+2025-06-15,Website,1081.08,Website - Brand
+2025-06-15,Mobile app,418.52,Mobile app - Performance
+2025-06-15,Amazon,434.89,Amazon - Brand
+2025-06-15,eBay,352.78,eBay - Performance
+2025-06-16,Website,1321.62,Website - Performance
+2025-06-16,Mobile app,760.27,Mobile app - Brand
+2025-06-16,Amazon,685.22,Amazon - Performance
+2025-06-16,eBay,430.19,eBay - Brand
+2025-06-17,Website,1077.03,Website - Brand
+2025-06-17,Mobile app,425.79,Mobile app - Brand
+2025-06-17,Amazon,533.06,Amazon - Brand
+2025-06-17,eBay,236.31,eBay - Brand
+2025-06-18,Website,471.22,Website - Performance
+2025-06-18,Mobile app,363.42,Mobile app - Performance
+2025-06-18,Amazon,474.97,Amazon - Brand
+2025-06-18,eBay,177.46,eBay - Brand
+2025-06-19,Website,474.22,Website - Brand
+2025-06-19,Mobile app,571.52,Mobile app - Brand
+2025-06-19,Amazon,386.42,Amazon - Performance
+2025-06-19,eBay,167.56,eBay - Brand
+2025-06-20,Website,950.13,Website - Performance
+2025-06-20,Mobile app,480.21,Mobile app - Brand
+2025-06-20,Amazon,736.11,Amazon - Brand
+2025-06-20,eBay,460.15,eBay - Brand
+2025-06-21,Website,896.58,Website - Brand
+2025-06-21,Mobile app,396.3,Mobile app - Brand
+2025-06-21,Amazon,661.05,Amazon - Brand
+2025-06-21,eBay,321.68,eBay - Brand
+2025-06-22,Website,906.58,Website - Brand
+2025-06-22,Mobile app,352.16,Mobile app - Brand
+2025-06-22,Amazon,624.51,Amazon - Performance
+2025-06-22,eBay,342.92,eBay - Brand
+2025-06-23,Website,654.85,Website - Brand
+2025-06-23,Mobile app,421.02,Mobile app - Performance
+2025-06-23,Amazon,703.94,Amazon - Brand
+2025-06-23,eBay,237.76,eBay - Brand
+2025-06-24,Website,666.48,Website - Performance
+2025-06-24,Mobile app,689.44,Mobile app - Brand
+2025-06-24,Amazon,378.7,Amazon - Performance
+2025-06-24,eBay,416.61,eBay - Performance
+2025-06-25,Website,940.6,Website - Performance
+2025-06-25,Mobile app,344.23,Mobile app - Brand
+2025-06-25,Amazon,575.4,Amazon - Brand
+2025-06-25,eBay,283.57,eBay - Performance
+2025-06-26,Website,969.21,Website - Brand
+2025-06-26,Mobile app,512.97,Mobile app - Performance
+2025-06-26,Amazon,550.96,Amazon - Performance
+2025-06-26,eBay,304.98,eBay - Brand
+2025-06-27,Website,688.82,Website - Performance
+2025-06-27,Mobile app,459.42,Mobile app - Brand
+2025-06-27,Amazon,903.0,Amazon - Performance
+2025-06-27,eBay,366.03,eBay - Performance
+2025-06-28,Website,627.47,Website - Brand
+2025-06-28,Mobile app,454.41,Mobile app - Brand
+2025-06-28,Amazon,543.63,Amazon - Performance
+2025-06-28,eBay,467.28,eBay - Performance
+2025-06-29,Website,789.26,Website - Brand
+2025-06-29,Mobile app,476.67,Mobile app - Brand
+2025-06-29,Amazon,235.07,Amazon - Performance
+2025-06-29,eBay,212.45,eBay - Brand
+2025-06-30,Website,862.74,Website - Performance
+2025-06-30,Mobile app,712.27,Mobile app - Brand
+2025-06-30,Amazon,427.98,Amazon - Brand
+2025-06-30,eBay,172.96,eBay - Performance
